@@ -1,0 +1,6617 @@
+{
+    "Uranium Fuel Rod (burning) (Nuclear Power Plant)": {
+        "building": "Nuclear Power Plant",
+        "time": 300,
+        "in": {
+            "Uranium Fuel Rod": 1,
+            "Water": 1200
+        },
+        "out": {
+            "Uranium Fuel Rod (burning)": 50
+        }
+    },
+    "Plutonium Fuel Rod (burning) (Nuclear Power Plant)": {
+        "building": "Nuclear Power Plant",
+        "time": 600,
+        "in": {
+            "Plutonium Fuel Rod": 1,
+            "Water": 2400
+        },
+        "out": {
+            "Plutonium Fuel Rod (burning)": 10
+        }
+    },
+    "The HUB (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Ore (Limestone)": 20
+        },
+        "out": {
+            "The HUB": 1
+        }
+    },
+    "Crafting Bench (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 3,
+            "Iron Rod": 3
+        },
+        "out": {
+            "Crafting Bench": 1
+        }
+    },
+    "Iron Plate (Constructor)": {
+        "building": "Constructor",
+        "time": 6,
+        "in": {
+            "Iron Ingot": 3
+        },
+        "out": {
+            "Iron Plate": 2
+        }
+    },
+    "Iron Rod (Constructor)": {
+        "building": "Constructor",
+        "time": 4,
+        "in": {
+            "Iron Ingot": 1
+        },
+        "out": {
+            "Iron Rod": 1
+        }
+    },
+    "Xeno-Zapper (Workshop)": {
+        "building": "Workshop",
+        "time": 40,
+        "in": {
+            "Iron Rod": 10,
+            "Adhered Iron Plate": 2,
+            "Coated Cable": 15,
+            "Fused Wire": 50
+        },
+        "out": {
+            "Xeno-Zapper": 1
+        }
+    },
+    "Iron Ingot (Smelter)": {
+        "building": "Smelter",
+        "time": 2,
+        "in": {
+            "Iron Ore (Limestone)": 1
+        },
+        "out": {
+            "Iron Ingot": 1
+        }
+    },
+    "Conveyor Ceiling Mount (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Conveyor Ceiling Mount": 1
+        }
+    },
+    "Conveyor Pole (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 1,
+            "Iron Plate": 1,
+            "Wet Concrete": 1
+        },
+        "out": {
+            "Conveyor Pole": 1
+        }
+    },
+    "Conveyor Wall Mount (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Conveyor Wall Mount": 1
+        }
+    },
+    "Conveyor Belt Mk.1 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 1
+        },
+        "out": {
+            "Conveyor Belt Mk.1": 1
+        }
+    },
+    "Power Line (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Coated Cable": 1
+        },
+        "out": {
+            "Power Line": 1
+        }
+    },
+    "Power Pole Mk.1 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Fused Wire": 3,
+            "Iron Rod": 1,
+            "Wet Concrete": 1
+        },
+        "out": {
+            "Power Pole Mk.1": 1
+        }
+    },
+    "Wall Outlet Mk.1 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Fused Wire": 4,
+            "Iron Rod": 1
+        },
+        "out": {
+            "Wall Outlet Mk.1": 1
+        }
+    },
+    "Nitro Rocket Fuel (Blender)": {
+        "building": "Blender",
+        "time": 2.4,
+        "in": {
+            "Residual Fuel": 4,
+            "Nitrogen Gas (Bauxite)": 3,
+            "Sulfur (Coal)": 4,
+            "Coal (Iron)": 2
+        },
+        "out": {
+            "Rocket Fuel": 6,
+            "Compacted Coal": 1
+        }
+    },
+    "Coal-Powered Generator (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 20,
+            "Copper Rotor": 10,
+            "Coated Cable": 30
+        },
+        "out": {
+            "Coal-Powered Generator": 1
+        }
+    },
+    "Pipeline Support (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Pipeline Support": 1
+        }
+    },
+    "Pipeline Wall Support (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 1,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Pipeline Wall Support": 1
+        }
+    },
+    "Pipeline Mk.1 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steamed Copper Sheet": 1
+        },
+        "out": {
+            "Pipeline Mk.1": 1
+        }
+    },
+    "Pipeline Junction (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steamed Copper Sheet": 5
+        },
+        "out": {
+            "Pipeline Junction": 1
+        }
+    },
+    "Pipeline Pump Mk.1 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steamed Copper Sheet": 2,
+            "Copper Rotor": 2
+        },
+        "out": {
+            "Pipeline Pump Mk.1": 1
+        }
+    },
+    "Fluid Buffer (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steamed Copper Sheet": 10,
+            "Modular Frame": 5
+        },
+        "out": {
+            "Fluid Buffer": 1
+        }
+    },
+    "Water Extractor (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steamed Copper Sheet": 20,
+            "Adhered Iron Plate": 10,
+            "Copper Rotor": 10
+        },
+        "out": {
+            "Water Extractor": 1
+        }
+    },
+    "AWESOME Sink (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 15,
+            "Coated Cable": 30,
+            "Wet Concrete": 45
+        },
+        "out": {
+            "AWESOME Sink": 1
+        }
+    },
+    "AWESOME Shop (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Screws": 200,
+            "Iron Plate": 10,
+            "Coated Cable": 10
+        },
+        "out": {
+            "AWESOME Shop": 1
+        }
+    },
+    "Rocket Fuel (Blender)": {
+        "building": "Blender",
+        "time": 6,
+        "in": {
+            "Turbofuel": 6,
+            "Nitric Acid": 1
+        },
+        "out": {
+            "Rocket Fuel": 10,
+            "Compacted Coal": 1
+        }
+    },
+    "Packaged Rocket Fuel (Packager)": {
+        "building": "Packager",
+        "time": 1,
+        "in": {
+            "Rocket Fuel": 2,
+            "Empty Fluid Tank": 1
+        },
+        "out": {
+            "Packaged Rocket Fuel": 1
+        }
+    },
+    "Unpackage Rocket Fuel (Packager)": {
+        "building": "Packager",
+        "time": 1,
+        "in": {
+            "Packaged Rocket Fuel": 1
+        },
+        "out": {
+            "Rocket Fuel": 2,
+            "Empty Fluid Tank": 1
+        }
+    },
+    "Dark-Ion Fuel (Converter)": {
+        "building": "Converter",
+        "time": 3,
+        "in": {
+            "Packaged Rocket Fuel": 12,
+            "Dark Matter Crystal": 4
+        },
+        "out": {
+            "Ionized Fuel": 10,
+            "Compacted Coal": 2
+        }
+    },
+    "Quantum Encoder (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Turbo Pressure Motor": 20,
+            "Supercomputer": 20,
+            "Cooling System": 50,
+            "Time Crystal": 50,
+            "Ficsite Trigon": 100
+        },
+        "out": {
+            "Quantum Encoder": 1
+        }
+    },
+    "Dark Matter Residue (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 5
+        },
+        "out": {
+            "Dark Matter Residue": 10
+        }
+    },
+    "Excited Photonic Matter (Converter)": {
+        "building": "Converter",
+        "time": 3,
+        "in": {},
+        "out": {
+            "Excited Photonic Matter": 10
+        }
+    },
+    "Dark Matter Crystal (Hadron Collider)": {
+        "building": "Hadron Collider",
+        "time": 2,
+        "in": {
+            "Turbo Diamonds": 1,
+            "Dark Matter Residue": 5
+        },
+        "out": {
+            "Dark Matter Crystal": 1
+        }
+    },
+    "Superposition Oscillator (Quantum Encoder)": {
+        "building": "Quantum Encoder",
+        "time": 12,
+        "in": {
+            "Dark Matter Crystal": 6,
+            "Crystal Oscillator": 1,
+            "Alclad Aluminum Sheet": 9,
+            "Excited Photonic Matter": 25
+        },
+        "out": {
+            "Quantum Oscillator": 1,
+            "Dark Matter Residue": 25
+        }
+    },
+    "Neural-Quantum Processor (Quantum Encoder)": {
+        "building": "Quantum Encoder",
+        "time": 20,
+        "in": {
+            "Time Crystal": 5,
+            "Supercomputer": 1,
+            "Ficsite Trigon": 15,
+            "Excited Photonic Matter": 25
+        },
+        "out": {
+            "Temporal Processor": 1,
+            "Dark Matter Residue": 25
+        }
+    },
+    "AI Expansion Server (Quantum Encoder)": {
+        "building": "Quantum Encoder",
+        "time": 15,
+        "in": {
+            "Magnetic Field Generator": 1,
+            "Temporal Processor": 1,
+            "Quantum Oscillator": 1,
+            "Excited Photonic Matter": 25
+        },
+        "out": {
+            "Space Elevator Part 12": 1,
+            "Dark Matter Residue": 25
+        }
+    },
+    "Ionized Fuel (Refinery)": {
+        "building": "Refinery",
+        "time": 24,
+        "in": {
+            "Rocket Fuel": 16,
+            "Power Shard (1)": 1
+        },
+        "out": {
+            "Ionized Fuel": 16,
+            "Compacted Coal": 2
+        }
+    },
+    "Packaged Ionized Fuel (Packager)": {
+        "building": "Packager",
+        "time": 3,
+        "in": {
+            "Ionized Fuel": 4,
+            "Empty Fluid Tank": 2
+        },
+        "out": {
+            "Packaged Ionized Fuel": 2
+        }
+    },
+    "Unpackage Ionized Fuel (Packager)": {
+        "building": "Packager",
+        "time": 3,
+        "in": {
+            "Packaged Ionized Fuel": 2
+        },
+        "out": {
+            "Ionized Fuel": 4,
+            "Empty Fluid Tank": 2
+        }
+    },
+    "Turbo Diamonds (Hadron Collider)": {
+        "building": "Hadron Collider",
+        "time": 3,
+        "in": {
+            "Coal (Iron)": 30,
+            "Packaged Turbofuel": 2
+        },
+        "out": {
+            "Turbo Diamonds": 3
+        }
+    },
+    "SAM Fluctuator (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 6,
+            "Fused Wire": 5,
+            "Steel Pipe": 3
+        },
+        "out": {
+            "SAM Fluctuator": 1
+        }
+    },
+    "Converter (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Fused Modular Frame": 10,
+            "Cooling System": 25,
+            "Radio Control Unit": 50,
+            "SAM Fluctuator": 100
+        },
+        "out": {
+            "Converter": 1
+        }
+    },
+    "Ficsite Trigon (Constructor)": {
+        "building": "Constructor",
+        "time": 6,
+        "in": {
+            "Ficsite Ingot (Iron)": 1
+        },
+        "out": {
+            "Ficsite Trigon": 3
+        }
+    },
+    "Ficsite Ingot (Iron) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 4,
+            "Iron Ingot": 24
+        },
+        "out": {
+            "Ficsite Ingot (Iron)": 1
+        }
+    },
+    "Time Crystal (Converter)": {
+        "building": "Converter",
+        "time": 10,
+        "in": {
+            "Turbo Diamonds": 2
+        },
+        "out": {
+            "Time Crystal": 1
+        }
+    },
+    "Diamonds (Hadron Collider)": {
+        "building": "Hadron Collider",
+        "time": 2,
+        "in": {
+            "Coal (Iron)": 20
+        },
+        "out": {
+            "Turbo Diamonds": 1
+        }
+    },
+    "Reanimated SAM (Constructor)": {
+        "building": "Constructor",
+        "time": 2,
+        "in": {
+            "SAM": 4
+        },
+        "out": {
+            "Reanimated SAM": 1
+        }
+    },
+    "Biochemical Sculptor (Blender)": {
+        "building": "Blender",
+        "time": 120,
+        "in": {
+            "Assembly Director System": 1,
+            "Ficsite Trigon": 80,
+            "Water": 20
+        },
+        "out": {
+            "Biochemical Sculptor": 4
+        }
+    },
+    "Ficsite Ingot (Aluminum) (Converter)": {
+        "building": "Converter",
+        "time": 2,
+        "in": {
+            "Reanimated SAM": 2,
+            "Pure Aluminum Ingot": 4
+        },
+        "out": {
+            "Ficsite Ingot (Iron)": 1
+        }
+    },
+    "Ficsite Ingot (Caterium) (Converter)": {
+        "building": "Converter",
+        "time": 4,
+        "in": {
+            "Reanimated SAM": 3,
+            "Pure Caterium Ingot": 4
+        },
+        "out": {
+            "Ficsite Ingot (Iron)": 1
+        }
+    },
+    "Bauxite (Caterium) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Caterium Ore (Copper)": 15
+        },
+        "out": {
+            "Bauxite (Caterium)": 12
+        }
+    },
+    "Bauxite (Copper) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Copper Ore (Quartz)": 18
+        },
+        "out": {
+            "Bauxite (Caterium)": 12
+        }
+    },
+    "Caterium Ore (Copper) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Copper Ore (Quartz)": 15
+        },
+        "out": {
+            "Caterium Ore (Copper)": 12
+        }
+    },
+    "Caterium Ore (Quartz) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Raw Quartz (Bauxite)": 12
+        },
+        "out": {
+            "Caterium Ore (Copper)": 12
+        }
+    },
+    "Coal (Iron) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Iron Ore (Limestone)": 18
+        },
+        "out": {
+            "Coal (Iron)": 12
+        }
+    },
+    "Coal (Limestone) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Limestone (Sulfur)": 36
+        },
+        "out": {
+            "Coal (Iron)": 12
+        }
+    },
+    "Copper Ore (Quartz) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Raw Quartz (Bauxite)": 10
+        },
+        "out": {
+            "Copper Ore (Quartz)": 12
+        }
+    },
+    "Copper Ore (Sulfur) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Sulfur (Coal)": 12
+        },
+        "out": {
+            "Copper Ore (Quartz)": 12
+        }
+    },
+    "Iron Ore (Limestone) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Limestone (Sulfur)": 24
+        },
+        "out": {
+            "Iron Ore (Limestone)": 12
+        }
+    },
+    "Limestone (Sulfur) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Sulfur (Coal)": 2
+        },
+        "out": {
+            "Limestone (Sulfur)": 12
+        }
+    },
+    "Nitrogen Gas (Bauxite) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Bauxite (Caterium)": 10
+        },
+        "out": {
+            "Nitrogen Gas (Bauxite)": 12
+        }
+    },
+    "Nitrogen Gas (Caterium) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Caterium Ore (Copper)": 12
+        },
+        "out": {
+            "Nitrogen Gas (Bauxite)": 12
+        }
+    },
+    "Raw Quartz (Bauxite) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Bauxite (Caterium)": 10
+        },
+        "out": {
+            "Raw Quartz (Bauxite)": 12
+        }
+    },
+    "Raw Quartz (Coal) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Coal (Iron)": 24
+        },
+        "out": {
+            "Raw Quartz (Bauxite)": 12
+        }
+    },
+    "Sulfur (Coal) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Coal (Iron)": 20
+        },
+        "out": {
+            "Sulfur (Coal)": 12
+        }
+    },
+    "Sulfur (Iron) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Iron Ore (Limestone)": 30
+        },
+        "out": {
+            "Sulfur (Coal)": 12
+        }
+    },
+    "Uranium Ore (Bauxite) (Converter)": {
+        "building": "Converter",
+        "time": 6,
+        "in": {
+            "Reanimated SAM": 1,
+            "Bauxite (Caterium)": 48
+        },
+        "out": {
+            "Uranium Ore (Bauxite)": 12
+        }
+    },
+    "Turbofuel (Refinery)": {
+        "building": "Refinery",
+        "time": 16,
+        "in": {
+            "Residual Fuel": 6,
+            "Compacted Coal": 4
+        },
+        "out": {
+            "Turbofuel": 5
+        }
+    },
+    "Packaged Turbofuel (Packager)": {
+        "building": "Packager",
+        "time": 6,
+        "in": {
+            "Turbofuel": 2,
+            "Steel Canister": 2
+        },
+        "out": {
+            "Packaged Turbofuel": 2
+        }
+    },
+    "Unpackage Turbofuel (Packager)": {
+        "building": "Packager",
+        "time": 6,
+        "in": {
+            "Packaged Turbofuel": 2
+        },
+        "out": {
+            "Turbofuel": 2,
+            "Steel Canister": 2
+        }
+    },
+    "Charcoal (Constructor)": {
+        "building": "Constructor",
+        "time": 4,
+        "in": {
+            "Wood": 1
+        },
+        "out": {
+            "Coal (Iron)": 10
+        }
+    },
+    "Biocoal (Constructor)": {
+        "building": "Constructor",
+        "time": 8,
+        "in": {
+            "Biomass (Mycelia)": 5
+        },
+        "out": {
+            "Coal (Iron)": 6
+        }
+    },
+    "Compacted Coal (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Coal (Iron)": 5,
+            "Sulfur (Coal)": 5
+        },
+        "out": {
+            "Compacted Coal": 5
+        }
+    },
+    "Circuit Board (Assembler)": {
+        "building": "Assembler",
+        "time": 8,
+        "in": {
+            "Steamed Copper Sheet": 2,
+            "Residual Plastic": 4
+        },
+        "out": {
+            "Circuit Board": 1
+        }
+    },
+    "Oil Extractor (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Motor": 15,
+            "Encased Industrial Beam": 20,
+            "Coated Cable": 60
+        },
+        "out": {
+            "Oil Extractor": 1
+        }
+    },
+    "Refinery (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Motor": 10,
+            "Encased Industrial Beam": 10,
+            "Steel Pipe": 30,
+            "Steamed Copper Sheet": 20
+        },
+        "out": {
+            "Refinery": 1
+        }
+    },
+    "Valve (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Residual Rubber": 4,
+            "Steel Beam": 4
+        },
+        "out": {
+            "Valve": 1
+        }
+    },
+    "Fuel (Refinery)": {
+        "building": "Refinery",
+        "time": 6,
+        "in": {
+            "Liquid Oil": 6
+        },
+        "out": {
+            "Residual Fuel": 4,
+            "Polymer Resin": 3
+        }
+    },
+    "Petroleum Coke (Refinery)": {
+        "building": "Refinery",
+        "time": 6,
+        "in": {
+            "Heavy Oil Residue": 4
+        },
+        "out": {
+            "Petroleum Coke": 12
+        }
+    },
+    "Plastic (Refinery)": {
+        "building": "Refinery",
+        "time": 6,
+        "in": {
+            "Liquid Oil": 3
+        },
+        "out": {
+            "Residual Plastic": 2,
+            "Heavy Oil Residue": 1
+        }
+    },
+    "Rubber (Refinery)": {
+        "building": "Refinery",
+        "time": 6,
+        "in": {
+            "Liquid Oil": 3
+        },
+        "out": {
+            "Residual Rubber": 2,
+            "Heavy Oil Residue": 2
+        }
+    },
+    "Residual Fuel (Refinery)": {
+        "building": "Refinery",
+        "time": 6,
+        "in": {
+            "Heavy Oil Residue": 6
+        },
+        "out": {
+            "Residual Fuel": 4
+        }
+    },
+    "Residual Plastic (Refinery)": {
+        "building": "Refinery",
+        "time": 6,
+        "in": {
+            "Polymer Resin": 6,
+            "Water": 2
+        },
+        "out": {
+            "Residual Plastic": 2
+        }
+    },
+    "Residual Rubber (Refinery)": {
+        "building": "Refinery",
+        "time": 6,
+        "in": {
+            "Polymer Resin": 4,
+            "Water": 4
+        },
+        "out": {
+            "Residual Rubber": 2
+        }
+    },
+    "Pink Diamonds (Converter)": {
+        "building": "Converter",
+        "time": 4,
+        "in": {
+            "Coal (Iron)": 8,
+            "Pure Quartz Crystal": 3
+        },
+        "out": {
+            "Turbo Diamonds": 1
+        }
+    },
+    "Petroleum Diamonds (Hadron Collider)": {
+        "building": "Hadron Collider",
+        "time": 2,
+        "in": {
+            "Petroleum Coke": 24
+        },
+        "out": {
+            "Turbo Diamonds": 1
+        }
+    },
+    "Oil-Based Diamonds (Hadron Collider)": {
+        "building": "Hadron Collider",
+        "time": 3,
+        "in": {
+            "Liquid Oil": 10
+        },
+        "out": {
+            "Turbo Diamonds": 2
+        }
+    },
+    "Cloudy Diamonds (Hadron Collider)": {
+        "building": "Hadron Collider",
+        "time": 3,
+        "in": {
+            "Coal (Iron)": 12,
+            "Limestone (Sulfur)": 24
+        },
+        "out": {
+            "Turbo Diamonds": 1
+        }
+    },
+    "Dark Matter Trap (Hadron Collider)": {
+        "building": "Hadron Collider",
+        "time": 2,
+        "in": {
+            "Time Crystal": 1,
+            "Dark Matter Residue": 5
+        },
+        "out": {
+            "Dark Matter Crystal": 2
+        }
+    },
+    "Dark Matter Crystallization (Hadron Collider)": {
+        "building": "Hadron Collider",
+        "time": 3,
+        "in": {
+            "Dark Matter Residue": 10
+        },
+        "out": {
+            "Dark Matter Crystal": 1
+        }
+    },
+    "Wet Concrete (Refinery)": {
+        "building": "Refinery",
+        "time": 3,
+        "in": {
+            "Limestone (Sulfur)": 6,
+            "Water": 5
+        },
+        "out": {
+            "Wet Concrete": 4
+        }
+    },
+    "Turbo Heavy Fuel (Refinery)": {
+        "building": "Refinery",
+        "time": 8,
+        "in": {
+            "Heavy Oil Residue": 5,
+            "Compacted Coal": 4
+        },
+        "out": {
+            "Turbofuel": 4
+        }
+    },
+    "Steel Rod (Constructor)": {
+        "building": "Constructor",
+        "time": 5,
+        "in": {
+            "Steel Ingot": 1
+        },
+        "out": {
+            "Iron Rod": 4
+        }
+    },
+    "Foundry (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Modular Frame": 10,
+            "Copper Rotor": 10,
+            "Wet Concrete": 20
+        },
+        "out": {
+            "Foundry": 1
+        }
+    },
+    "Steel Beam (Constructor)": {
+        "building": "Constructor",
+        "time": 4,
+        "in": {
+            "Steel Ingot": 4
+        },
+        "out": {
+            "Steel Beam": 1
+        }
+    },
+    "Steel Pipe (Constructor)": {
+        "building": "Constructor",
+        "time": 6,
+        "in": {
+            "Steel Ingot": 3
+        },
+        "out": {
+            "Steel Pipe": 2
+        }
+    },
+    "Steel Ingot (Foundry)": {
+        "building": "Foundry",
+        "time": 4,
+        "in": {
+            "Iron Ore (Limestone)": 3,
+            "Coal (Iron)": 3
+        },
+        "out": {
+            "Steel Ingot": 3
+        }
+    },
+    "Versatile Framework (Assembler)": {
+        "building": "Assembler",
+        "time": 24,
+        "in": {
+            "Modular Frame": 1,
+            "Steel Beam": 12
+        },
+        "out": {
+            "Versatile Framework": 2
+        }
+    },
+    "Steel Canister (Constructor)": {
+        "building": "Constructor",
+        "time": 6,
+        "in": {
+            "Steel Ingot": 4
+        },
+        "out": {
+            "Steel Canister": 4
+        }
+    },
+    "Packager (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 20,
+            "Residual Rubber": 10,
+            "Residual Plastic": 10
+        },
+        "out": {
+            "Packager": 1
+        }
+    },
+    "Empty Canister (Constructor)": {
+        "building": "Constructor",
+        "time": 4,
+        "in": {
+            "Residual Plastic": 2
+        },
+        "out": {
+            "Steel Canister": 4
+        }
+    },
+    "Packaged Fuel (Packager)": {
+        "building": "Packager",
+        "time": 3,
+        "in": {
+            "Residual Fuel": 2,
+            "Steel Canister": 2
+        },
+        "out": {
+            "Packaged Fuel": 2
+        }
+    },
+    "Liquid Biofuel (Refinery)": {
+        "building": "Refinery",
+        "time": 4,
+        "in": {
+            "Solid Biofuel": 6,
+            "Water": 3
+        },
+        "out": {
+            "Liquid Biofuel": 4
+        }
+    },
+    "Packaged Liquid Biofuel (Packager)": {
+        "building": "Packager",
+        "time": 3,
+        "in": {
+            "Liquid Biofuel": 2,
+            "Steel Canister": 2
+        },
+        "out": {
+            "Packaged Liquid Biofuel": 2
+        }
+    },
+    "Packaged Oil (Packager)": {
+        "building": "Packager",
+        "time": 4,
+        "in": {
+            "Liquid Oil": 2,
+            "Steel Canister": 2
+        },
+        "out": {
+            "Packaged Oil": 2
+        }
+    },
+    "Packaged Heavy Oil Residue (Packager)": {
+        "building": "Packager",
+        "time": 4,
+        "in": {
+            "Heavy Oil Residue": 2,
+            "Steel Canister": 2
+        },
+        "out": {
+            "Packaged Heavy Oil Residue": 2
+        }
+    },
+    "Packaged Water (Packager)": {
+        "building": "Packager",
+        "time": 2,
+        "in": {
+            "Water": 2,
+            "Steel Canister": 2
+        },
+        "out": {
+            "Packaged Water": 2
+        }
+    },
+    "Unpackage Liquid Biofuel (Packager)": {
+        "building": "Packager",
+        "time": 2,
+        "in": {
+            "Packaged Liquid Biofuel": 2
+        },
+        "out": {
+            "Liquid Biofuel": 2,
+            "Steel Canister": 2
+        }
+    },
+    "Unpackage Fuel (Packager)": {
+        "building": "Packager",
+        "time": 2,
+        "in": {
+            "Packaged Fuel": 2
+        },
+        "out": {
+            "Residual Fuel": 2,
+            "Steel Canister": 2
+        }
+    },
+    "Unpackage Oil (Packager)": {
+        "building": "Packager",
+        "time": 2,
+        "in": {
+            "Packaged Oil": 2
+        },
+        "out": {
+            "Liquid Oil": 2,
+            "Steel Canister": 2
+        }
+    },
+    "Unpackage Heavy Oil Residue (Packager)": {
+        "building": "Packager",
+        "time": 6,
+        "in": {
+            "Packaged Heavy Oil Residue": 2
+        },
+        "out": {
+            "Heavy Oil Residue": 2,
+            "Steel Canister": 2
+        }
+    },
+    "Unpackage Water (Packager)": {
+        "building": "Packager",
+        "time": 1,
+        "in": {
+            "Packaged Water": 2
+        },
+        "out": {
+            "Water": 2,
+            "Steel Canister": 2
+        }
+    },
+    "Steamed Copper Sheet (Refinery)": {
+        "building": "Refinery",
+        "time": 8,
+        "in": {
+            "Pure Copper Ingot": 3,
+            "Water": 3
+        },
+        "out": {
+            "Steamed Copper Sheet": 3
+        }
+    },
+    "Rubber Concrete (Assembler)": {
+        "building": "Assembler",
+        "time": 6,
+        "in": {
+            "Limestone (Sulfur)": 10,
+            "Residual Rubber": 2
+        },
+        "out": {
+            "Wet Concrete": 9
+        }
+    },
+    "Recycled Rubber (Refinery)": {
+        "building": "Refinery",
+        "time": 12,
+        "in": {
+            "Residual Plastic": 6,
+            "Residual Fuel": 6
+        },
+        "out": {
+            "Residual Rubber": 12
+        }
+    },
+    "Pure Quartz Crystal (Refinery)": {
+        "building": "Refinery",
+        "time": 8,
+        "in": {
+            "Raw Quartz (Bauxite)": 9,
+            "Water": 5
+        },
+        "out": {
+            "Pure Quartz Crystal": 7
+        }
+    },
+    "Quartz Crystal (Constructor)": {
+        "building": "Constructor",
+        "time": 8,
+        "in": {
+            "Raw Quartz (Bauxite)": 5
+        },
+        "out": {
+            "Pure Quartz Crystal": 3
+        }
+    },
+    "Pure Iron Ingot (Refinery)": {
+        "building": "Refinery",
+        "time": 12,
+        "in": {
+            "Iron Ore (Limestone)": 7,
+            "Water": 4
+        },
+        "out": {
+            "Iron Ingot": 13
+        }
+    },
+    "Pure Copper Ingot (Refinery)": {
+        "building": "Refinery",
+        "time": 24,
+        "in": {
+            "Copper Ore (Quartz)": 6,
+            "Water": 4
+        },
+        "out": {
+            "Pure Copper Ingot": 15
+        }
+    },
+    "Pure Caterium Ingot (Refinery)": {
+        "building": "Refinery",
+        "time": 5,
+        "in": {
+            "Caterium Ore (Copper)": 2,
+            "Water": 2
+        },
+        "out": {
+            "Pure Caterium Ingot": 1
+        }
+    },
+    "Pure Aluminum Ingot (Smelter)": {
+        "building": "Smelter",
+        "time": 2,
+        "in": {
+            "Aluminum Scrap": 2
+        },
+        "out": {
+            "Pure Aluminum Ingot": 1
+        }
+    },
+    "Aluminum Casing (Constructor)": {
+        "building": "Constructor",
+        "time": 2,
+        "in": {
+            "Pure Aluminum Ingot": 3
+        },
+        "out": {
+            "Aluminum Casing": 2
+        }
+    },
+    "Alclad Aluminum Sheet (Assembler)": {
+        "building": "Assembler",
+        "time": 6,
+        "in": {
+            "Pure Aluminum Ingot": 3,
+            "Pure Copper Ingot": 1
+        },
+        "out": {
+            "Alclad Aluminum Sheet": 3
+        }
+    },
+    "Alumina Solution (Refinery)": {
+        "building": "Refinery",
+        "time": 6,
+        "in": {
+            "Bauxite (Caterium)": 12,
+            "Water": 18
+        },
+        "out": {
+            "Sloppy Alumina": 12,
+            "Silica": 5
+        }
+    },
+    "Aluminum Scrap (Refinery)": {
+        "building": "Refinery",
+        "time": 1,
+        "in": {
+            "Sloppy Alumina": 4,
+            "Coal (Iron)": 2
+        },
+        "out": {
+            "Aluminum Scrap": 6,
+            "Water": 2
+        }
+    },
+    "Packaged Alumina Solution (Packager)": {
+        "building": "Packager",
+        "time": 1,
+        "in": {
+            "Sloppy Alumina": 2,
+            "Steel Canister": 2
+        },
+        "out": {
+            "Packaged Alumina Solution": 2
+        }
+    },
+    "Aluminum Ingot (Foundry)": {
+        "building": "Foundry",
+        "time": 4,
+        "in": {
+            "Aluminum Scrap": 6,
+            "Silica": 5
+        },
+        "out": {
+            "Pure Aluminum Ingot": 4
+        }
+    },
+    "Silica (Constructor)": {
+        "building": "Constructor",
+        "time": 8,
+        "in": {
+            "Raw Quartz (Bauxite)": 3
+        },
+        "out": {
+            "Silica": 5
+        }
+    },
+    "Crystal Oscillator (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 120,
+        "in": {
+            "Pure Quartz Crystal": 36,
+            "Coated Cable": 28,
+            "Adhered Iron Plate": 5
+        },
+        "out": {
+            "Crystal Oscillator": 2
+        }
+    },
+    "Unpackage Alumina Solution (Packager)": {
+        "building": "Packager",
+        "time": 1,
+        "in": {
+            "Packaged Alumina Solution": 2
+        },
+        "out": {
+            "Sloppy Alumina": 2,
+            "Steel Canister": 2
+        }
+    },
+    "Polymer Resin (Refinery)": {
+        "building": "Refinery",
+        "time": 6,
+        "in": {
+            "Liquid Oil": 6
+        },
+        "out": {
+            "Polymer Resin": 13,
+            "Heavy Oil Residue": 2
+        }
+    },
+    "Plastic Smart Plating (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 24,
+        "in": {
+            "Adhered Iron Plate": 1,
+            "Copper Rotor": 1,
+            "Residual Plastic": 3
+        },
+        "out": {
+            "Plastic Smart Plating": 2
+        }
+    },
+    "Automated Speed Wiring (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 32,
+        "in": {
+            "Stator": 2,
+            "Fused Wire": 40,
+            "High-Speed Connector": 1
+        },
+        "out": {
+            "Automated Speed Wiring": 4
+        }
+    },
+    "Encased Industrial Beam (Assembler)": {
+        "building": "Assembler",
+        "time": 10,
+        "in": {
+            "Steel Beam": 3,
+            "Wet Concrete": 6
+        },
+        "out": {
+            "Encased Industrial Beam": 1
+        }
+    },
+    "Motor (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Copper Rotor": 2,
+            "Stator": 2
+        },
+        "out": {
+            "Motor": 1
+        }
+    },
+    "Stator (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Steel Pipe": 3,
+            "Fused Wire": 8
+        },
+        "out": {
+            "Stator": 1
+        }
+    },
+    "Miner Mk.2 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Automated Miner": 2,
+            "Encased Industrial Beam": 10,
+            "Steel Pipe": 20,
+            "Modular Frame": 10
+        },
+        "out": {
+            "Miner Mk.2": 1
+        }
+    },
+    "Automated Wiring (Assembler)": {
+        "building": "Assembler",
+        "time": 24,
+        "in": {
+            "Stator": 1,
+            "Coated Cable": 20
+        },
+        "out": {
+            "Automated Speed Wiring": 1
+        }
+    },
+    "AI Limiter (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Steamed Copper Sheet": 5,
+            "Fused Quickwire": 20
+        },
+        "out": {
+            "AI Limiter": 1
+        }
+    },
+    "Heavy Oil Residue (Refinery)": {
+        "building": "Refinery",
+        "time": 6,
+        "in": {
+            "Liquid Oil": 3
+        },
+        "out": {
+            "Heavy Oil Residue": 4,
+            "Polymer Resin": 2
+        }
+    },
+    "Heavy Flexible Frame (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 16,
+        "in": {
+            "Modular Frame": 5,
+            "Encased Industrial Beam": 3,
+            "Residual Rubber": 20,
+            "Steel Screws": 104
+        },
+        "out": {
+            "Heavy Flexible Frame": 1
+        }
+    },
+    "Manufacturer (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Motor": 10,
+            "Modular Frame": 20,
+            "Residual Plastic": 50,
+            "Coated Cable": 50
+        },
+        "out": {
+            "Manufacturer": 1
+        }
+    },
+    "Computer (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 24,
+        "in": {
+            "Circuit Board": 4,
+            "Coated Cable": 8,
+            "Residual Plastic": 16
+        },
+        "out": {
+            "Computer": 1
+        }
+    },
+    "Heavy Modular Frame (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 30,
+        "in": {
+            "Modular Frame": 5,
+            "Steel Pipe": 20,
+            "Encased Industrial Beam": 5,
+            "Steel Screws": 120
+        },
+        "out": {
+            "Heavy Flexible Frame": 1
+        }
+    },
+    "Modular Engine (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 60,
+        "in": {
+            "Motor": 2,
+            "Residual Rubber": 15,
+            "Plastic Smart Plating": 2
+        },
+        "out": {
+            "Modular Engine": 1
+        }
+    },
+    "Adaptive Control Unit (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 60,
+        "in": {
+            "Automated Speed Wiring": 5,
+            "Circuit Board": 5,
+            "Heavy Flexible Frame": 1,
+            "Computer": 2
+        },
+        "out": {
+            "Adaptive Control Unit": 1
+        }
+    },
+    "Fused Wire (Assembler)": {
+        "building": "Assembler",
+        "time": 20,
+        "in": {
+            "Pure Copper Ingot": 4,
+            "Pure Caterium Ingot": 1
+        },
+        "out": {
+            "Fused Wire": 30
+        }
+    },
+    "Flexible Framework (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 16,
+        "in": {
+            "Modular Frame": 1,
+            "Steel Beam": 6,
+            "Residual Rubber": 8
+        },
+        "out": {
+            "Versatile Framework": 2
+        }
+    },
+    "Electrode Circuit Board (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Residual Rubber": 4,
+            "Petroleum Coke": 8
+        },
+        "out": {
+            "Circuit Board": 1
+        }
+    },
+    "Electrode Aluminum Scrap (Refinery)": {
+        "building": "Refinery",
+        "time": 4,
+        "in": {
+            "Sloppy Alumina": 12,
+            "Petroleum Coke": 4
+        },
+        "out": {
+            "Aluminum Scrap": 20,
+            "Water": 7
+        }
+    },
+    "Diluted Packaged Fuel (Refinery)": {
+        "building": "Refinery",
+        "time": 2,
+        "in": {
+            "Heavy Oil Residue": 1,
+            "Packaged Water": 2
+        },
+        "out": {
+            "Packaged Fuel": 2
+        }
+    },
+    "Copper Rotor (Assembler)": {
+        "building": "Assembler",
+        "time": 16,
+        "in": {
+            "Steamed Copper Sheet": 6,
+            "Steel Screws": 52
+        },
+        "out": {
+            "Copper Rotor": 3
+        }
+    },
+    "Modular Frame (Assembler)": {
+        "building": "Assembler",
+        "time": 60,
+        "in": {
+            "Adhered Iron Plate": 3,
+            "Iron Rod": 12
+        },
+        "out": {
+            "Modular Frame": 2
+        }
+    },
+    "Rotor (Assembler)": {
+        "building": "Assembler",
+        "time": 15,
+        "in": {
+            "Iron Rod": 5,
+            "Steel Screws": 25
+        },
+        "out": {
+            "Copper Rotor": 1
+        }
+    },
+    "Assembler (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 8,
+            "Copper Rotor": 4,
+            "Coated Cable": 10
+        },
+        "out": {
+            "Assembler": 1
+        }
+    },
+    "Copper Sheet (Constructor)": {
+        "building": "Constructor",
+        "time": 6,
+        "in": {
+            "Pure Copper Ingot": 2
+        },
+        "out": {
+            "Steamed Copper Sheet": 1
+        }
+    },
+    "Smart Plating (Assembler)": {
+        "building": "Assembler",
+        "time": 30,
+        "in": {
+            "Adhered Iron Plate": 1,
+            "Copper Rotor": 1
+        },
+        "out": {
+            "Plastic Smart Plating": 1
+        }
+    },
+    "Copper Alloy Ingot (Foundry)": {
+        "building": "Foundry",
+        "time": 6,
+        "in": {
+            "Copper Ore (Quartz)": 5,
+            "Iron Ore (Limestone)": 5
+        },
+        "out": {
+            "Pure Copper Ingot": 10
+        }
+    },
+    "Coke Steel Ingot (Foundry)": {
+        "building": "Foundry",
+        "time": 12,
+        "in": {
+            "Iron Ore (Limestone)": 15,
+            "Petroleum Coke": 15
+        },
+        "out": {
+            "Steel Ingot": 20
+        }
+    },
+    "Coated Iron Plate (Assembler)": {
+        "building": "Assembler",
+        "time": 8,
+        "in": {
+            "Iron Ingot": 5,
+            "Residual Plastic": 1
+        },
+        "out": {
+            "Iron Plate": 10
+        }
+    },
+    "Coated Iron Canister (Assembler)": {
+        "building": "Assembler",
+        "time": 4,
+        "in": {
+            "Iron Plate": 2,
+            "Steamed Copper Sheet": 1
+        },
+        "out": {
+            "Steel Canister": 4
+        }
+    },
+    "Coated Cable (Refinery)": {
+        "building": "Refinery",
+        "time": 8,
+        "in": {
+            "Fused Wire": 5,
+            "Heavy Oil Residue": 2
+        },
+        "out": {
+            "Coated Cable": 9
+        }
+    },
+    "Bolted Frame (Assembler)": {
+        "building": "Assembler",
+        "time": 24,
+        "in": {
+            "Adhered Iron Plate": 3,
+            "Steel Screws": 56
+        },
+        "out": {
+            "Modular Frame": 2
+        }
+    },
+    "Adhered Iron Plate (Assembler)": {
+        "building": "Assembler",
+        "time": 16,
+        "in": {
+            "Iron Plate": 3,
+            "Residual Rubber": 1
+        },
+        "out": {
+            "Adhered Iron Plate": 1
+        }
+    },
+    "Turbo Pressure Motor (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 32,
+        "in": {
+            "Motor": 4,
+            "Pressure Conversion Cube": 1,
+            "Packaged Nitrogen Gas": 24,
+            "Stator": 8
+        },
+        "out": {
+            "Turbo Pressure Motor": 2
+        }
+    },
+    "Encased Plutonium Cell (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Plutonium Pellet": 2,
+            "Wet Concrete": 4
+        },
+        "out": {
+            "Encased Plutonium Cell": 1
+        }
+    },
+    "Pressure Conversion Cube (Assembler)": {
+        "building": "Assembler",
+        "time": 60,
+        "in": {
+            "Fused Modular Frame": 1,
+            "Radio Control Unit": 2
+        },
+        "out": {
+            "Pressure Conversion Cube": 1
+        }
+    },
+    "Nitric Acid (Blender)": {
+        "building": "Blender",
+        "time": 6,
+        "in": {
+            "Nitrogen Gas (Bauxite)": 12,
+            "Water": 3,
+            "Iron Plate": 1
+        },
+        "out": {
+            "Nitric Acid": 3
+        }
+    },
+    "Non-Fissile Uranium (Blender)": {
+        "building": "Blender",
+        "time": 24,
+        "in": {
+            "Uranium Fuel Rod (burning)": 15,
+            "Silica": 10,
+            "Nitric Acid": 6,
+            "Sulfuric Acid": 6
+        },
+        "out": {
+            "Non Fissible Uranium": 20,
+            "Water": 6
+        }
+    },
+    "Particle Accelerator (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Turbo Pressure Motor": 10,
+            "Supercomputer": 10,
+            "Fused Modular Frame": 25,
+            "Cooling System": 50,
+            "Fused Quickwire": 500
+        },
+        "out": {
+            "Particle Accelerator": 1
+        }
+    },
+    "Copper Powder (Constructor)": {
+        "building": "Constructor",
+        "time": 6,
+        "in": {
+            "Pure Copper Ingot": 30
+        },
+        "out": {
+            "Copper Powder": 5
+        }
+    },
+    "Plutonium Pellet (Hadron Collider)": {
+        "building": "Hadron Collider",
+        "time": 60,
+        "in": {
+            "Non Fissible Uranium": 100,
+            "Uranium Fuel Rod (burning)": 25
+        },
+        "out": {
+            "Plutonium Pellet": 30
+        }
+    },
+    "Plutonium Fuel Rod (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 240,
+        "in": {
+            "Encased Plutonium Cell": 30,
+            "Steel Beam": 18,
+            "Electromagnetic Control Rod": 6,
+            "Heat Sink": 10
+        },
+        "out": {
+            "Plutonium Fuel Rod": 1
+        }
+    },
+    "Packaged Nitric Acid (Packager)": {
+        "building": "Packager",
+        "time": 2,
+        "in": {
+            "Nitric Acid": 1,
+            "Empty Fluid Tank": 1
+        },
+        "out": {
+            "Packaged Nitric Acid": 1
+        }
+    },
+    "Nuclear Pasta (Hadron Collider)": {
+        "building": "Hadron Collider",
+        "time": 120,
+        "in": {
+            "Copper Powder": 200,
+            "Pressure Conversion Cube": 1
+        },
+        "out": {
+            "Nuclear Pasta": 1
+        }
+    },
+    "Unpackage Nitric Acid (Packager)": {
+        "building": "Packager",
+        "time": 3,
+        "in": {
+            "Packaged Nitric Acid": 1
+        },
+        "out": {
+            "Nitric Acid": 1,
+            "Empty Fluid Tank": 1
+        }
+    },
+    "Turbo Blend Fuel (Blender)": {
+        "building": "Blender",
+        "time": 8,
+        "in": {
+            "Residual Fuel": 2,
+            "Heavy Oil Residue": 4,
+            "Sulfur (Coal)": 3,
+            "Petroleum Coke": 3
+        },
+        "out": {
+            "Turbofuel": 6
+        }
+    },
+    "Encased Uranium Cell (Blender)": {
+        "building": "Blender",
+        "time": 12,
+        "in": {
+            "Uranium Ore (Bauxite)": 10,
+            "Wet Concrete": 3,
+            "Sulfuric Acid": 8
+        },
+        "out": {
+            "Infused Uranium Cell": 5,
+            "Sulfuric Acid": 2
+        }
+    },
+    "Cooling System (Blender)": {
+        "building": "Blender",
+        "time": 10,
+        "in": {
+            "Heat Sink": 2,
+            "Residual Rubber": 2,
+            "Water": 5,
+            "Nitrogen Gas (Bauxite)": 25
+        },
+        "out": {
+            "Cooling System": 1
+        }
+    },
+    "Blender (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Computer": 10,
+            "Heavy Flexible Frame": 10,
+            "Motor": 20,
+            "Aluminum Casing": 50
+        },
+        "out": {
+            "Blender": 1
+        }
+    },
+    "Battery (Blender)": {
+        "building": "Blender",
+        "time": 3,
+        "in": {
+            "Sulfuric Acid": 2.5,
+            "Sloppy Alumina": 2,
+            "Aluminum Casing": 1
+        },
+        "out": {
+            "Classic Battery": 1,
+            "Water": 1.5
+        }
+    },
+    "Supercomputer (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 32,
+        "in": {
+            "Computer": 4,
+            "AI Limiter": 2,
+            "High-Speed Connector": 3,
+            "Residual Plastic": 28
+        },
+        "out": {
+            "Supercomputer": 1
+        }
+    },
+    "Radio Control Unit (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 48,
+        "in": {
+            "Aluminum Casing": 32,
+            "Crystal Oscillator": 1,
+            "Computer": 2
+        },
+        "out": {
+            "Radio Control Unit": 2
+        }
+    },
+    "Sulfuric Acid (Refinery)": {
+        "building": "Refinery",
+        "time": 6,
+        "in": {
+            "Sulfur (Coal)": 5,
+            "Water": 5
+        },
+        "out": {
+            "Sulfuric Acid": 5
+        }
+    },
+    "Packaged Sulfuric Acid (Packager)": {
+        "building": "Packager",
+        "time": 3,
+        "in": {
+            "Sulfuric Acid": 2,
+            "Steel Canister": 2
+        },
+        "out": {
+            "Packaged Sulfuric Acid": 2
+        }
+    },
+    "Assembly Director System (Assembler)": {
+        "building": "Assembler",
+        "time": 80,
+        "in": {
+            "Adaptive Control Unit": 2,
+            "Supercomputer": 1
+        },
+        "out": {
+            "Assembly Director System": 1
+        }
+    },
+    "High-Speed Connector (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 16,
+        "in": {
+            "Fused Quickwire": 56,
+            "Coated Cable": 10,
+            "Circuit Board": 1
+        },
+        "out": {
+            "High-Speed Connector": 1
+        }
+    },
+    "Unpackage Sulfuric Acid (Packager)": {
+        "building": "Packager",
+        "time": 1,
+        "in": {
+            "Packaged Sulfuric Acid": 1
+        },
+        "out": {
+            "Sulfuric Acid": 1,
+            "Steel Canister": 1
+        }
+    },
+    "Super-State Computer (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 25,
+        "in": {
+            "Computer": 3,
+            "Electromagnetic Control Rod": 1,
+            "Classic Battery": 10,
+            "Fused Wire": 25
+        },
+        "out": {
+            "Supercomputer": 1
+        }
+    },
+    "Electromagnetic Control Rod (Assembler)": {
+        "building": "Assembler",
+        "time": 30,
+        "in": {
+            "Stator": 3,
+            "AI Limiter": 2
+        },
+        "out": {
+            "Electromagnetic Control Rod": 2
+        }
+    },
+    "Nuclear Power Plant (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Supercomputer": 10,
+            "Heavy Flexible Frame": 25,
+            "Alclad Aluminum Sheet": 100,
+            "Coated Cable": 200,
+            "Wet Concrete": 250
+        },
+        "out": {
+            "Nuclear Power Plant": 1
+        }
+    },
+    "Uranium Fuel Rod (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 150,
+        "in": {
+            "Infused Uranium Cell": 50,
+            "Encased Industrial Beam": 3,
+            "Electromagnetic Control Rod": 5
+        },
+        "out": {
+            "Uranium Fuel Rod": 1
+        }
+    },
+    "Magnetic Field Generator (Assembler)": {
+        "building": "Assembler",
+        "time": 120,
+        "in": {
+            "Versatile Framework": 5,
+            "Electromagnetic Control Rod": 2
+        },
+        "out": {
+            "Magnetic Field Generator": 2
+        }
+    },
+    "Sloppy Alumina (Refinery)": {
+        "building": "Refinery",
+        "time": 3,
+        "in": {
+            "Bauxite (Caterium)": 10,
+            "Water": 10
+        },
+        "out": {
+            "Sloppy Alumina": 12
+        }
+    },
+    "Radio Control System (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 40,
+        "in": {
+            "Crystal Oscillator": 1,
+            "Circuit Board": 10,
+            "Aluminum Casing": 60,
+            "Residual Rubber": 30
+        },
+        "out": {
+            "Radio Control Unit": 3
+        }
+    },
+    "Plutonium Fuel Unit (Assembler)": {
+        "building": "Assembler",
+        "time": 120,
+        "in": {
+            "Encased Plutonium Cell": 20,
+            "Pressure Conversion Cube": 1
+        },
+        "out": {
+            "Plutonium Fuel Rod": 1
+        }
+    },
+    "OC Supercomputer (Assembler)": {
+        "building": "Assembler",
+        "time": 20,
+        "in": {
+            "Radio Control Unit": 2,
+            "Cooling System": 2
+        },
+        "out": {
+            "Supercomputer": 1
+        }
+    },
+    "Heat Sink (Assembler)": {
+        "building": "Assembler",
+        "time": 8,
+        "in": {
+            "Alclad Aluminum Sheet": 5,
+            "Steamed Copper Sheet": 3
+        },
+        "out": {
+            "Heat Sink": 1
+        }
+    },
+    "Fused Modular Frame (Blender)": {
+        "building": "Blender",
+        "time": 40,
+        "in": {
+            "Heavy Flexible Frame": 1,
+            "Aluminum Casing": 50,
+            "Nitrogen Gas (Bauxite)": 25
+        },
+        "out": {
+            "Fused Modular Frame": 1
+        }
+    },
+    "Resource Well Extractor (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 10,
+            "Aluminum Casing": 10
+        },
+        "out": {
+            "Resource Well Extractor": 1
+        }
+    },
+    "Resource Well Pressurizer (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Radio Control Unit": 10,
+            "Heavy Flexible Frame": 25,
+            "Motor": 50,
+            "Alclad Aluminum Sheet": 50,
+            "Residual Rubber": 100
+        },
+        "out": {
+            "Resource Well Pressurizer": 1
+        }
+    },
+    "Empty Fluid Tank (Constructor)": {
+        "building": "Constructor",
+        "time": 1,
+        "in": {
+            "Pure Aluminum Ingot": 1
+        },
+        "out": {
+            "Empty Fluid Tank": 1
+        }
+    },
+    "Packaged Nitrogen Gas (Packager)": {
+        "building": "Packager",
+        "time": 1,
+        "in": {
+            "Nitrogen Gas (Bauxite)": 4,
+            "Empty Fluid Tank": 1
+        },
+        "out": {
+            "Packaged Nitrogen Gas": 1
+        }
+    },
+    "Unpackage Nitrogen Gas (Packager)": {
+        "building": "Packager",
+        "time": 1,
+        "in": {
+            "Packaged Nitrogen Gas": 1
+        },
+        "out": {
+            "Nitrogen Gas (Bauxite)": 4,
+            "Empty Fluid Tank": 1
+        }
+    },
+    "Instant Scrap (Blender)": {
+        "building": "Blender",
+        "time": 6,
+        "in": {
+            "Bauxite (Caterium)": 15,
+            "Coal (Iron)": 10,
+            "Sulfuric Acid": 5,
+            "Water": 6
+        },
+        "out": {
+            "Aluminum Scrap": 30,
+            "Water": 5
+        }
+    },
+    "Instant Plutonium Cell (Hadron Collider)": {
+        "building": "Hadron Collider",
+        "time": 120,
+        "in": {
+            "Non Fissible Uranium": 150,
+            "Aluminum Casing": 20
+        },
+        "out": {
+            "Encased Plutonium Cell": 20
+        }
+    },
+    "Heat-Fused Frame (Blender)": {
+        "building": "Blender",
+        "time": 20,
+        "in": {
+            "Heavy Flexible Frame": 1,
+            "Pure Aluminum Ingot": 50,
+            "Nitric Acid": 8,
+            "Residual Fuel": 10
+        },
+        "out": {
+            "Fused Modular Frame": 1
+        }
+    },
+    "Fertile Uranium (Blender)": {
+        "building": "Blender",
+        "time": 12,
+        "in": {
+            "Uranium Ore (Bauxite)": 5,
+            "Uranium Fuel Rod (burning)": 5,
+            "Nitric Acid": 3,
+            "Sulfuric Acid": 5
+        },
+        "out": {
+            "Non Fissible Uranium": 20,
+            "Water": 8
+        }
+    },
+    "Electric Motor (Assembler)": {
+        "building": "Assembler",
+        "time": 16,
+        "in": {
+            "Electromagnetic Control Rod": 1,
+            "Copper Rotor": 2
+        },
+        "out": {
+            "Motor": 2
+        }
+    },
+    "Diluted Fuel (Blender)": {
+        "building": "Blender",
+        "time": 6,
+        "in": {
+            "Heavy Oil Residue": 5,
+            "Water": 10
+        },
+        "out": {
+            "Residual Fuel": 10
+        }
+    },
+    "Cooling Device (Blender)": {
+        "building": "Blender",
+        "time": 24,
+        "in": {
+            "Heat Sink": 4,
+            "Motor": 1,
+            "Nitrogen Gas (Bauxite)": 24
+        },
+        "out": {
+            "Cooling System": 2
+        }
+    },
+    "Classic Battery (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 8,
+        "in": {
+            "Sulfur (Coal)": 6,
+            "Alclad Aluminum Sheet": 7,
+            "Residual Plastic": 8,
+            "Fused Wire": 12
+        },
+        "out": {
+            "Classic Battery": 4
+        }
+    },
+    "Automated Miner (Assembler)": {
+        "building": "Assembler",
+        "time": 60,
+        "in": {
+            "Steel Pipe": 4,
+            "Iron Plate": 4
+        },
+        "out": {
+            "Automated Miner": 1
+        }
+    },
+    "Alclad Casing (Assembler)": {
+        "building": "Assembler",
+        "time": 8,
+        "in": {
+            "Pure Aluminum Ingot": 20,
+            "Pure Copper Ingot": 10
+        },
+        "out": {
+            "Aluminum Casing": 15
+        }
+    },
+    "Molded Steel Pipe (Foundry)": {
+        "building": "Foundry",
+        "time": 6,
+        "in": {
+            "Steel Ingot": 5,
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Steel Pipe": 5
+        }
+    },
+    "Iron Pipe (Constructor)": {
+        "building": "Constructor",
+        "time": 12,
+        "in": {
+            "Iron Ingot": 20
+        },
+        "out": {
+            "Steel Pipe": 5
+        }
+    },
+    "Steel Cast Plate (Foundry)": {
+        "building": "Foundry",
+        "time": 4,
+        "in": {
+            "Iron Ingot": 1,
+            "Steel Ingot": 1
+        },
+        "out": {
+            "Iron Plate": 3
+        }
+    },
+    "Molded Beam (Foundry)": {
+        "building": "Foundry",
+        "time": 12,
+        "in": {
+            "Steel Ingot": 24,
+            "Wet Concrete": 16
+        },
+        "out": {
+            "Steel Beam": 9
+        }
+    },
+    "Aluminum Beam (Constructor)": {
+        "building": "Constructor",
+        "time": 8,
+        "in": {
+            "Pure Aluminum Ingot": 3
+        },
+        "out": {
+            "Steel Beam": 3
+        }
+    },
+    "Aluminum Rod (Constructor)": {
+        "building": "Constructor",
+        "time": 8,
+        "in": {
+            "Pure Aluminum Ingot": 1
+        },
+        "out": {
+            "Iron Rod": 7
+        }
+    },
+    "Plastic AI Limiter (Assembler)": {
+        "building": "Assembler",
+        "time": 15,
+        "in": {
+            "Fused Quickwire": 30,
+            "Residual Plastic": 7
+        },
+        "out": {
+            "AI Limiter": 2
+        }
+    },
+    "Distilled Silica (Blender)": {
+        "building": "Blender",
+        "time": 6,
+        "in": {
+            "Dissolved Silica": 12,
+            "Limestone (Sulfur)": 5,
+            "Water": 10
+        },
+        "out": {
+            "Silica": 27,
+            "Water": 8
+        }
+    },
+    "Quartz Purification (Refinery)": {
+        "building": "Refinery",
+        "time": 12,
+        "in": {
+            "Raw Quartz (Bauxite)": 24,
+            "Nitric Acid": 2
+        },
+        "out": {
+            "Pure Quartz Crystal": 15,
+            "Dissolved Silica": 12
+        }
+    },
+    "Fused Quartz Crystal (Foundry)": {
+        "building": "Foundry",
+        "time": 20,
+        "in": {
+            "Raw Quartz (Bauxite)": 25,
+            "Coal (Iron)": 12
+        },
+        "out": {
+            "Pure Quartz Crystal": 18
+        }
+    },
+    "Leached Iron Ingot (Refinery)": {
+        "building": "Refinery",
+        "time": 6,
+        "in": {
+            "Iron Ore (Limestone)": 5,
+            "Sulfuric Acid": 1
+        },
+        "out": {
+            "Iron Ingot": 10
+        }
+    },
+    "Basic Iron Ingot (Foundry)": {
+        "building": "Foundry",
+        "time": 12,
+        "in": {
+            "Iron Ore (Limestone)": 5,
+            "Limestone (Sulfur)": 8
+        },
+        "out": {
+            "Iron Ingot": 10
+        }
+    },
+    "Tempered Copper Ingot (Foundry)": {
+        "building": "Foundry",
+        "time": 12,
+        "in": {
+            "Copper Ore (Quartz)": 5,
+            "Petroleum Coke": 8
+        },
+        "out": {
+            "Pure Copper Ingot": 12
+        }
+    },
+    "Leached Copper Ingot (Refinery)": {
+        "building": "Refinery",
+        "time": 12,
+        "in": {
+            "Copper Ore (Quartz)": 9,
+            "Sulfuric Acid": 5
+        },
+        "out": {
+            "Pure Copper Ingot": 22
+        }
+    },
+    "Tempered Caterium Ingot (Foundry)": {
+        "building": "Foundry",
+        "time": 8,
+        "in": {
+            "Caterium Ore (Copper)": 6,
+            "Petroleum Coke": 2
+        },
+        "out": {
+            "Pure Caterium Ingot": 3
+        }
+    },
+    "Leached Caterium Ingot (Refinery)": {
+        "building": "Refinery",
+        "time": 10,
+        "in": {
+            "Caterium Ore (Copper)": 9,
+            "Sulfuric Acid": 5
+        },
+        "out": {
+            "Pure Caterium Ingot": 6
+        }
+    },
+    "Caterium Wire (Constructor)": {
+        "building": "Constructor",
+        "time": 4,
+        "in": {
+            "Pure Caterium Ingot": 1
+        },
+        "out": {
+            "Fused Wire": 8
+        }
+    },
+    "Iron Wire (Constructor)": {
+        "building": "Constructor",
+        "time": 24,
+        "in": {
+            "Iron Ingot": 5
+        },
+        "out": {
+            "Fused Wire": 9
+        }
+    },
+    "Infused Uranium Cell (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 12,
+        "in": {
+            "Uranium Ore (Bauxite)": 5,
+            "Silica": 3,
+            "Sulfur (Coal)": 5,
+            "Fused Quickwire": 15
+        },
+        "out": {
+            "Infused Uranium Cell": 4
+        }
+    },
+    "Drone Port (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Heavy Flexible Frame": 20,
+            "High-Speed Connector": 20,
+            "Alclad Aluminum Sheet": 50,
+            "Aluminum Casing": 50,
+            "Radio Control Unit": 10
+        },
+        "out": {
+            "Drone Port": 1
+        }
+    },
+    "Drone (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Motor": 4,
+            "Alclad Aluminum Sheet": 10,
+            "Radio Control Unit": 1,
+            "AI Limiter": 2,
+            "Automated Miner": 1
+        },
+        "out": {
+            "Drone": 1
+        }
+    },
+    "Caterium Ingot (Smelter)": {
+        "building": "Smelter",
+        "time": 4,
+        "in": {
+            "Caterium Ore (Copper)": 3
+        },
+        "out": {
+            "Pure Caterium Ingot": 1
+        }
+    },
+    "Turbo Electric Motor (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 64,
+        "in": {
+            "Motor": 7,
+            "Radio Control Unit": 9,
+            "Electromagnetic Control Rod": 5,
+            "Copper Rotor": 7
+        },
+        "out": {
+            "Turbo Pressure Motor": 3
+        }
+    },
+    "Conveyor Belt Mk.5 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Alclad Aluminum Sheet": 1
+        },
+        "out": {
+            "Conveyor Belt Mk.5": 1
+        }
+    },
+    "Conveyor Lift Mk.5 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Alclad Aluminum Sheet": 2
+        },
+        "out": {
+            "Conveyor Lift Mk.5": 1
+        }
+    },
+    "Miner Mk.3 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Automated Miner": 3,
+            "Steel Pipe": 50,
+            "Supercomputer": 5,
+            "Fused Modular Frame": 10,
+            "Turbo Pressure Motor": 3
+        },
+        "out": {
+            "Miner Mk.3": 1
+        }
+    },
+    "Turbo Motor (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 32,
+        "in": {
+            "Cooling System": 4,
+            "Radio Control Unit": 2,
+            "Motor": 4,
+            "Residual Rubber": 24
+        },
+        "out": {
+            "Turbo Pressure Motor": 1
+        }
+    },
+    "Thermal Propulsion Rocket (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 120,
+        "in": {
+            "Modular Engine": 5,
+            "Turbo Pressure Motor": 2,
+            "Cooling System": 6,
+            "Fused Modular Frame": 2
+        },
+        "out": {
+            "Thermal Propulsion Rocket": 2
+        }
+    },
+    "Quickwire Stator (Assembler)": {
+        "building": "Assembler",
+        "time": 15,
+        "in": {
+            "Steel Pipe": 4,
+            "Fused Quickwire": 15
+        },
+        "out": {
+            "Stator": 2
+        }
+    },
+    "Cheap Silica (Assembler)": {
+        "building": "Assembler",
+        "time": 8,
+        "in": {
+            "Raw Quartz (Bauxite)": 3,
+            "Limestone (Sulfur)": 5
+        },
+        "out": {
+            "Silica": 7
+        }
+    },
+    "Steel Screws (Constructor)": {
+        "building": "Constructor",
+        "time": 12,
+        "in": {
+            "Steel Beam": 1
+        },
+        "out": {
+            "Steel Screws": 52
+        }
+    },
+    "Cast Screws (Constructor)": {
+        "building": "Constructor",
+        "time": 24,
+        "in": {
+            "Iron Ingot": 5
+        },
+        "out": {
+            "Steel Screws": 20
+        }
+    },
+    "Steel Rotor (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Steel Pipe": 2,
+            "Fused Wire": 6
+        },
+        "out": {
+            "Copper Rotor": 1
+        }
+    },
+    "Encased Industrial Pipe (Assembler)": {
+        "building": "Assembler",
+        "time": 15,
+        "in": {
+            "Steel Pipe": 6,
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Encased Industrial Beam": 1
+        }
+    },
+    "Stitched Iron Plate (Assembler)": {
+        "building": "Assembler",
+        "time": 32,
+        "in": {
+            "Iron Plate": 10,
+            "Fused Wire": 20
+        },
+        "out": {
+            "Adhered Iron Plate": 3
+        }
+    },
+    "Bolted Iron Plate (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Iron Plate": 18,
+            "Steel Screws": 50
+        },
+        "out": {
+            "Adhered Iron Plate": 3
+        }
+    },
+    "Radio Connection Unit (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 16,
+        "in": {
+            "Heat Sink": 4,
+            "High-Speed Connector": 2,
+            "Pure Quartz Crystal": 12
+        },
+        "out": {
+            "Radio Control Unit": 1
+        }
+    },
+    "Fused Quickwire (Assembler)": {
+        "building": "Assembler",
+        "time": 8,
+        "in": {
+            "Pure Caterium Ingot": 1,
+            "Pure Copper Ingot": 5
+        },
+        "out": {
+            "Fused Quickwire": 12
+        }
+    },
+    "Recycled Plastic (Refinery)": {
+        "building": "Refinery",
+        "time": 12,
+        "in": {
+            "Residual Rubber": 6,
+            "Residual Fuel": 6
+        },
+        "out": {
+            "Residual Plastic": 12
+        }
+    },
+    "Uranium Fuel Unit (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 300,
+        "in": {
+            "Infused Uranium Cell": 100,
+            "Electromagnetic Control Rod": 10,
+            "Crystal Oscillator": 3,
+            "Copper Rotor": 10
+        },
+        "out": {
+            "Uranium Fuel Rod": 3
+        }
+    },
+    "Rigor Motor (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 48,
+        "in": {
+            "Copper Rotor": 3,
+            "Stator": 3,
+            "Crystal Oscillator": 1
+        },
+        "out": {
+            "Motor": 6
+        }
+    },
+    "Steeled Frame (Assembler)": {
+        "building": "Assembler",
+        "time": 60,
+        "in": {
+            "Adhered Iron Plate": 2,
+            "Steel Pipe": 10
+        },
+        "out": {
+            "Modular Frame": 3
+        }
+    },
+    "Compacted Steel Ingot (Foundry)": {
+        "building": "Foundry",
+        "time": 24,
+        "in": {
+            "Iron Ore (Limestone)": 2,
+            "Compacted Coal": 1
+        },
+        "out": {
+            "Steel Ingot": 4
+        }
+    },
+    "Solid Steel Ingot (Foundry)": {
+        "building": "Foundry",
+        "time": 3,
+        "in": {
+            "Iron Ingot": 2,
+            "Coal (Iron)": 2
+        },
+        "out": {
+            "Steel Ingot": 3
+        }
+    },
+    "Iron Alloy Ingot (Foundry)": {
+        "building": "Foundry",
+        "time": 12,
+        "in": {
+            "Iron Ore (Limestone)": 8,
+            "Copper Ore (Quartz)": 2
+        },
+        "out": {
+            "Iron Ingot": 15
+        }
+    },
+    "Silicon High-Speed Connector (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 40,
+        "in": {
+            "Fused Quickwire": 60,
+            "Silica": 25,
+            "Circuit Board": 2
+        },
+        "out": {
+            "High-Speed Connector": 2
+        }
+    },
+    "Heavy Encased Frame (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 64,
+        "in": {
+            "Modular Frame": 8,
+            "Encased Industrial Beam": 10,
+            "Steel Pipe": 36,
+            "Wet Concrete": 22
+        },
+        "out": {
+            "Heavy Flexible Frame": 3
+        }
+    },
+    "Heat Exchanger (Assembler)": {
+        "building": "Assembler",
+        "time": 6,
+        "in": {
+            "Aluminum Casing": 3,
+            "Residual Rubber": 3
+        },
+        "out": {
+            "Heat Sink": 1
+        }
+    },
+    "Fine Black Powder (Assembler)": {
+        "building": "Assembler",
+        "time": 8,
+        "in": {
+            "Sulfur (Coal)": 1,
+            "Compacted Coal": 2
+        },
+        "out": {
+            "Fine Black Powder": 6
+        }
+    },
+    "Electromagnetic Connection Rod (Assembler)": {
+        "building": "Assembler",
+        "time": 15,
+        "in": {
+            "Stator": 2,
+            "High-Speed Connector": 1
+        },
+        "out": {
+            "Electromagnetic Control Rod": 2
+        }
+    },
+    "Insulated Crystal Oscillator (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 32,
+        "in": {
+            "Pure Quartz Crystal": 10,
+            "Residual Rubber": 7,
+            "AI Limiter": 1
+        },
+        "out": {
+            "Crystal Oscillator": 1
+        }
+    },
+    "Fine Concrete (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Silica": 3,
+            "Limestone (Sulfur)": 12
+        },
+        "out": {
+            "Wet Concrete": 10
+        }
+    },
+    "Crystal Computer (Assembler)": {
+        "building": "Assembler",
+        "time": 36,
+        "in": {
+            "Circuit Board": 3,
+            "Crystal Oscillator": 1
+        },
+        "out": {
+            "Computer": 2
+        }
+    },
+    "Caterium Computer (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 16,
+        "in": {
+            "Circuit Board": 4,
+            "Fused Quickwire": 14,
+            "Residual Rubber": 6
+        },
+        "out": {
+            "Computer": 1
+        }
+    },
+    "Caterium Circuit Board (Assembler)": {
+        "building": "Assembler",
+        "time": 48,
+        "in": {
+            "Residual Plastic": 10,
+            "Fused Quickwire": 30
+        },
+        "out": {
+            "Circuit Board": 7
+        }
+    },
+    "Silicon Circuit Board (Assembler)": {
+        "building": "Assembler",
+        "time": 24,
+        "in": {
+            "Steamed Copper Sheet": 11,
+            "Silica": 11
+        },
+        "out": {
+            "Circuit Board": 5
+        }
+    },
+    "Quickwire Cable (Assembler)": {
+        "building": "Assembler",
+        "time": 24,
+        "in": {
+            "Fused Quickwire": 3,
+            "Residual Rubber": 2
+        },
+        "out": {
+            "Coated Cable": 11
+        }
+    },
+    "Insulated Cable (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Fused Wire": 9,
+            "Residual Rubber": 6
+        },
+        "out": {
+            "Coated Cable": 20
+        }
+    },
+    "Conveyor Belt Mk.6 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Ficsite Trigon": 1,
+            "Time Crystal": 1
+        },
+        "out": {
+            "Conveyor Belt Mk.6": 1
+        }
+    },
+    "Conveyor Lift Mk.6 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Ficsite Trigon": 2,
+            "Time Crystal": 2
+        },
+        "out": {
+            "Conveyor Lift Mk.6": 1
+        }
+    },
+    "Ficsonium (Hadron Collider)": {
+        "building": "Hadron Collider",
+        "time": 6,
+        "in": {
+            "Plutonium Fuel Rod (burning)": 1,
+            "Singularity Cell": 1,
+            "Dark Matter Residue": 20
+        },
+        "out": {
+            "Ficsonium": 1
+        }
+    },
+    "Ficsonium Fuel Rod (Quantum Encoder)": {
+        "building": "Quantum Encoder",
+        "time": 24,
+        "in": {
+            "Ficsonium": 2,
+            "Electromagnetic Control Rod": 2,
+            "Ficsite Trigon": 40,
+            "Excited Photonic Matter": 20
+        },
+        "out": {
+            "Ficsonium Fuel Rod": 1,
+            "Dark Matter Residue": 20
+        }
+    },
+    "Main Portal (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Turbo Pressure Motor": 5,
+            "Radio Control Unit": 10,
+            "Quantum Oscillator": 15,
+            "SAM Fluctuator": 25,
+            "Ficsite Trigon": 50
+        },
+        "out": {
+            "Main Portal": 1
+        }
+    },
+    "Satellite Portal (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Radio Control Unit": 5,
+            "Quantum Oscillator": 10,
+            "SAM Fluctuator": 25,
+            "Ficsite Trigon": 25
+        },
+        "out": {
+            "Satellite Portal": 1
+        }
+    },
+    "Singularity Cell (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 60,
+        "in": {
+            "Nuclear Pasta": 1,
+            "Dark Matter Crystal": 20,
+            "Iron Plate": 100,
+            "Wet Concrete": 200
+        },
+        "out": {
+            "Singularity Cell": 10
+        }
+    },
+    "Ballistic Warp Drive (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 60,
+        "in": {
+            "Thermal Propulsion Rocket": 1,
+            "Singularity Cell": 5,
+            "Quantum Oscillator": 2,
+            "Dark Matter Crystal": 40
+        },
+        "out": {
+            "Ballistic Warp Drive": 1
+        }
+    },
+    "Blueprint Designer Mk.3 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Temporal Processor": 10,
+            "Fused Modular Frame": 20,
+            "Time Crystal": 50,
+            "Ficsite Trigon": 100
+        },
+        "out": {
+            "Blueprint Designer Mk.3": 1
+        }
+    },
+    "Hoverpack (Workshop)": {
+        "building": "Workshop",
+        "time": 120,
+        "in": {
+            "Motor": 8,
+            "Heavy Flexible Frame": 4,
+            "Computer": 8,
+            "Alclad Aluminum Sheet": 40
+        },
+        "out": {
+            "Hoverpack": 1
+        }
+    },
+    "Iodine-Infused Filter (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 16,
+        "in": {
+            "Gas Filter": 1,
+            "Fused Quickwire": 8,
+            "Aluminum Casing": 1
+        },
+        "out": {
+            "Iodine-Infused Filter": 1
+        }
+    },
+    "Hazmat Suit (Workshop)": {
+        "building": "Workshop",
+        "time": 120,
+        "in": {
+            "Residual Rubber": 50,
+            "Residual Plastic": 50,
+            "Alclad Aluminum Sheet": 50,
+            "Polyester Fabric": 50
+        },
+        "out": {
+            "Hazmat Suit": 1
+        }
+    },
+    "Block Signal (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Pipe": 2,
+            "Computer": 1
+        },
+        "out": {
+            "Block Signal": 1
+        }
+    },
+    "Path Signal (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Pipe": 2,
+            "Computer": 1
+        },
+        "out": {
+            "Path Signal": 1
+        }
+    },
+    "Blueprint Designer Mk.2 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Heavy Flexible Frame": 10,
+            "Computer": 20,
+            "Residual Rubber": 100,
+            "Wet Concrete": 100
+        },
+        "out": {
+            "Blueprint Designer Mk.2": 1
+        }
+    },
+    "Pipeline Mk.2 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steamed Copper Sheet": 2,
+            "Residual Plastic": 1
+        },
+        "out": {
+            "Pipeline Mk.2": 1
+        }
+    },
+    "Pipeline Pump Mk.2 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Heavy Flexible Frame": 1,
+            "Motor": 2,
+            "Residual Plastic": 10
+        },
+        "out": {
+            "Pipeline Pump Mk.2": 1
+        }
+    },
+    "Buffer Stop (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Pipe": 2,
+            "Encased Industrial Beam": 5,
+            "Wet Concrete": 20
+        },
+        "out": {
+            "Buffer Stop": 1
+        }
+    },
+    "Freight Platform (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Motor": 5,
+            "Encased Industrial Beam": 10,
+            "Residual Plastic": 25,
+            "Wet Concrete": 50,
+            "Fused Wire": 100
+        },
+        "out": {
+            "Freight Platform": 1
+        }
+    },
+    "Fluid Freight Platform (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Motor": 5,
+            "Encased Industrial Beam": 10,
+            "Residual Plastic": 25,
+            "Wet Concrete": 50,
+            "Fused Wire": 100
+        },
+        "out": {
+            "Fluid Freight Platform": 1
+        }
+    },
+    "Empty Platform (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Encased Industrial Beam": 10,
+            "Wet Concrete": 50
+        },
+        "out": {
+            "Empty Platform": 1
+        }
+    },
+    "Empty Platform With Catwalk (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Encased Industrial Beam": 10,
+            "Wet Concrete": 50
+        },
+        "out": {
+            "Empty Platform With Catwalk": 1
+        }
+    },
+    "Train Station (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Encased Industrial Beam": 10,
+            "Residual Plastic": 50,
+            "Wet Concrete": 50,
+            "Fused Wire": 200
+        },
+        "out": {
+            "Train Station": 1
+        }
+    },
+    "Railway (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Pipe": 1,
+            "Steel Beam": 1
+        },
+        "out": {
+            "Railway": 1
+        }
+    },
+    "Freight Car (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Modular Frame": 5,
+            "Steel Pipe": 10,
+            "Steel Beam": 10
+        },
+        "out": {
+            "Freight Car": 1
+        }
+    },
+    "Electric Locomotive (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Modular Frame": 5,
+            "Motor": 10,
+            "Steel Pipe": 20,
+            "Residual Rubber": 20,
+            "Fused Wire": 50
+        },
+        "out": {
+            "Electric Locomotive": 1
+        }
+    },
+    "Jetpack (Workshop)": {
+        "building": "Workshop",
+        "time": 60,
+        "in": {
+            "Motor": 5,
+            "Steel Pipe": 10,
+            "Iron Plate": 25,
+            "Fused Wire": 50
+        },
+        "out": {
+            "Jetpack": 1
+        }
+    },
+    "Conveyor Belt Mk.4 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Encased Industrial Beam": 1
+        },
+        "out": {
+            "Conveyor Belt Mk.4": 1
+        }
+    },
+    "Conveyor Lift Mk.4 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Encased Industrial Beam": 2
+        },
+        "out": {
+            "Conveyor Lift Mk.4": 1
+        }
+    },
+    "Truck (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Motor": 15,
+            "Encased Industrial Beam": 20,
+            "Modular Frame": 20,
+            "Residual Rubber": 50
+        },
+        "out": {
+            "Truck": 1
+        }
+    },
+    "Fuel-Powered Generator (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Motor": 15,
+            "Encased Industrial Beam": 15,
+            "Steamed Copper Sheet": 30,
+            "Residual Rubber": 50,
+            "Fused Quickwire": 50
+        },
+        "out": {
+            "Fuel-Powered Generator": 1
+        }
+    },
+    "Industrial Fluid Buffer (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Encased Industrial Beam": 5,
+            "Steamed Copper Sheet": 10,
+            "Residual Plastic": 25
+        },
+        "out": {
+            "Industrial Fluid Buffer": 1
+        }
+    },
+    "Quickwire (Constructor)": {
+        "building": "Constructor",
+        "time": 5,
+        "in": {
+            "Pure Caterium Ingot": 1
+        },
+        "out": {
+            "Fused Quickwire": 5
+        }
+    },
+    "Conveyor Belt Mk.3 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 1
+        },
+        "out": {
+            "Conveyor Belt Mk.3": 1
+        }
+    },
+    "Conveyor Lift Mk.3 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 2
+        },
+        "out": {
+            "Conveyor Lift Mk.3": 1
+        }
+    },
+    "Stackable Pipeline Support (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 4,
+            "Iron Rod": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Stackable Pipeline Support": 1
+        }
+    },
+    "Industrial Storage Container (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 20,
+            "Steel Pipe": 20
+        },
+        "out": {
+            "Industrial Storage Container": 1
+        }
+    },
+    "Blueprint Designer Mk.1 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Modular Frame": 15,
+            "Coated Cable": 25,
+            "Wet Concrete": 100,
+            "Steel Beam": 100
+        },
+        "out": {
+            "Blueprint Designer Mk.1": 1
+        }
+    },
+    "Hypertube Entrance (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Encased Industrial Beam": 4,
+            "Copper Rotor": 4,
+            "Steel Pipe": 10
+        },
+        "out": {
+            "Hypertube Entrance": 1
+        }
+    },
+    "Stackable Hypertube Support (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 4,
+            "Iron Rod": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Stackable Hypertube Support": 1
+        }
+    },
+    "Hypertube Junction (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Encased Industrial Beam": 2,
+            "Steel Beam": 2,
+            "Steamed Copper Sheet": 5
+        },
+        "out": {
+            "Hypertube Junction": 1
+        }
+    },
+    "Hypertube Branch (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Encased Industrial Beam": 2,
+            "Steel Pipe": 2,
+            "Steamed Copper Sheet": 5
+        },
+        "out": {
+            "Hypertube Branch": 1
+        }
+    },
+    "Hypertube Wall Support (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Hypertube Wall Support": 1
+        }
+    },
+    "Hypertube Support (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Hypertube Support": 1
+        }
+    },
+    "Hypertube (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steamed Copper Sheet": 1,
+            "Steel Pipe": 1
+        },
+        "out": {
+            "Hypertube": 1
+        }
+    },
+    "Power Storage (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Encased Industrial Beam": 5,
+            "Modular Frame": 10,
+            "Fused Wire": 100
+        },
+        "out": {
+            "Power Storage": 1
+        }
+    },
+    "Power Tower (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 10,
+            "Fused Wire": 20,
+            "Steel Beam": 20
+        },
+        "out": {
+            "Power Tower": 1
+        }
+    },
+    "Power Tower Platform (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 10,
+            "Fused Wire": 20,
+            "Steel Beam": 20
+        },
+        "out": {
+            "Power Tower Platform": 1
+        }
+    },
+    "Xeno-Basher (Workshop)": {
+        "building": "Workshop",
+        "time": 80,
+        "in": {
+            "Xeno-Zapper": 2,
+            "Modular Frame": 5,
+            "Iron Rod": 25,
+            "Fused Wire": 500
+        },
+        "out": {
+            "Xeno-Basher": 1
+        }
+    },
+    "Truck Station (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Modular Frame": 15,
+            "Copper Rotor": 20,
+            "Coated Cable": 50
+        },
+        "out": {
+            "Truck Station": 1
+        }
+    },
+    "Tractor (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Modular Frame": 5,
+            "Copper Rotor": 5,
+            "Adhered Iron Plate": 10
+        },
+        "out": {
+            "Tractor": 1
+        }
+    },
+    "Conveyor Belt Mk.2 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 1
+        },
+        "out": {
+            "Conveyor Belt Mk.2": 1
+        }
+    },
+    "Conveyor Lift Mk.2 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 2
+        },
+        "out": {
+            "Conveyor Lift Mk.2": 1
+        }
+    },
+    "Stackable Conveyor Pole (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Stackable Conveyor Pole": 1
+        }
+    },
+    "Jump Pad (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Copper Rotor": 2,
+            "Iron Plate": 15,
+            "Coated Cable": 10
+        },
+        "out": {
+            "Jump Pad": 1
+        }
+    },
+    "U-Jelly Landing Pad (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Copper Rotor": 2,
+            "Coated Cable": 20,
+            "Biomass (Mycelia)": 200
+        },
+        "out": {
+            "U-Jelly Landing Pad": 1
+        }
+    },
+    "Solid Biofuel (Constructor)": {
+        "building": "Constructor",
+        "time": 4,
+        "in": {
+            "Biomass (Mycelia)": 8
+        },
+        "out": {
+            "Solid Biofuel": 4
+        }
+    },
+    "Chainsaw (Workshop)": {
+        "building": "Workshop",
+        "time": 60,
+        "in": {
+            "Adhered Iron Plate": 5,
+            "Iron Rod": 25,
+            "Steel Screws": 160,
+            "Coated Cable": 15
+        },
+        "out": {
+            "Chainsaw": 1
+        }
+    },
+    "Hog Protein (Constructor)": {
+        "building": "Constructor",
+        "time": 3,
+        "in": {
+            "Hog Parts": 1
+        },
+        "out": {
+            "Hog Protein": 1
+        }
+    },
+    "Spitter Protein (Constructor)": {
+        "building": "Constructor",
+        "time": 3,
+        "in": {
+            "Spitter Parts": 1
+        },
+        "out": {
+            "Hog Protein": 1
+        }
+    },
+    "Biomass (Mycelia) (Constructor)": {
+        "building": "Constructor",
+        "time": 4,
+        "in": {
+            "Mycelia": 1
+        },
+        "out": {
+            "Biomass (Mycelia)": 10
+        }
+    },
+    "Power Shard (1) (Constructor)": {
+        "building": "Constructor",
+        "time": 8,
+        "in": {
+            "Crystal": 1
+        },
+        "out": {
+            "Power Shard (1)": 1
+        }
+    },
+    "Black Powder (Assembler)": {
+        "building": "Assembler",
+        "time": 4,
+        "in": {
+            "Coal (Iron)": 1,
+            "Sulfur (Coal)": 1
+        },
+        "out": {
+            "Fine Black Powder": 2
+        }
+    },
+    "MAM (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 5,
+            "Coated Cable": 15,
+            "Fused Wire": 45
+        },
+        "out": {
+            "MAM": 1
+        }
+    },
+    "Personal Storage Box (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 6,
+            "Iron Rod": 6
+        },
+        "out": {
+            "Personal Storage Box": 1
+        }
+    },
+    "Object Scanner (Workshop)": {
+        "building": "Workshop",
+        "time": 40,
+        "in": {
+            "Adhered Iron Plate": 4,
+            "Fused Wire": 20,
+            "Steel Screws": 50
+        },
+        "out": {
+            "Object Scanner": 1
+        }
+    },
+    "Conveyor Merger (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 2,
+            "Iron Rod": 2
+        },
+        "out": {
+            "Conveyor Merger": 1
+        }
+    },
+    "Conveyor Splitter (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 2,
+            "Coated Cable": 2
+        },
+        "out": {
+            "Conveyor Splitter": 1
+        }
+    },
+    "Conveyor Lift Mk.1 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 2
+        },
+        "out": {
+            "Conveyor Lift Mk.1": 1
+        }
+    },
+    "Half Foundation (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Half Foundation (1 m)": 1
+        }
+    },
+    "Half Foundation (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Half Foundation (2 m)": 1
+        }
+    },
+    "Half Foundation (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Half Foundation (4 m)": 1
+        }
+    },
+    "Inner Corner Extension (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inner Corner Extension (1 m)": 1
+        }
+    },
+    "Inner Corner Extension (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inner Corner Extension (2 m)": 1
+        }
+    },
+    "Inner Corner Extension (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inner Corner Extension (4 m)": 1
+        }
+    },
+    "Outer Corner Extension (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Outer Corner Extension (1 m)": 1
+        }
+    },
+    "Outer Corner Extension (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Outer Corner Extension (2 m)": 1
+        }
+    },
+    "Outer Corner Extension (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Outer Corner Extension (4 m)": 1
+        }
+    },
+    "Foundation Stairs (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Foundation Stairs (1 m)": 1
+        }
+    },
+    "Foundation Stairs (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Foundation Stairs (2 m)": 1
+        }
+    },
+    "Foundation Stairs (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Foundation Stairs (4 m)": 1
+        }
+    },
+    "Foundation (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Foundation (1 m)": 1
+        }
+    },
+    "Foundation (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Foundation (2 m)": 1
+        }
+    },
+    "Foundation (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Foundation (4 m)": 1
+        }
+    },
+    "Quarter Pipe (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Quarter Pipe": 1
+        }
+    },
+    "Inverted Quarter Pipe (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inverted Quarter Pipe": 1
+        }
+    },
+    "Inner Corner Quarter Pipe (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inner Corner Quarter Pipe": 1
+        }
+    },
+    "Inverted Inner Corner Quarter Pipe (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inverted Inner Corner Quarter Pipe": 1
+        }
+    },
+    "Outer Corner Quarter Pipe (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Outer Corner Quarter Pipe": 1
+        }
+    },
+    "Inverted Outer Corner Quarter Pipe (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inverted Outer Corner Quarter Pipe": 1
+        }
+    },
+    "Ramp (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Ramp (1 m)": 1
+        }
+    },
+    "Ramp (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Ramp (2 m)": 1
+        }
+    },
+    "Ramp (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Ramp (4 m)": 1
+        }
+    },
+    "Inverted Ramp (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inverted Ramp (4 m)": 1
+        }
+    },
+    "Double Ramp (8 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Double Ramp (8 m)": 1
+        }
+    },
+    "Down Corner Ramp (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Down Corner Ramp (1 m)": 1
+        }
+    },
+    "Up Corner Ramp (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Up Corner Ramp (1 m)": 1
+        }
+    },
+    "Down Corner Ramp (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Down Corner Ramp (2 m)": 1
+        }
+    },
+    "Up Corner Ramp (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Up Corner Ramp (2 m)": 1
+        }
+    },
+    "Down Corner Ramp (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Down Corner Ramp (4 m)": 1
+        }
+    },
+    "Up Corner Ramp (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Up Corner Ramp (4 m)": 1
+        }
+    },
+    "Double Ramp (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Double Ramp (4 m)": 1
+        }
+    },
+    "Double Ramp (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Double Ramp (2 m)": 1
+        }
+    },
+    "Inverted Ramp (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inverted Ramp (1 m)": 1
+        }
+    },
+    "Inverted Up Corner (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inverted Up Corner (1 m)": 1
+        }
+    },
+    "Inverted Down Corner (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inverted Down Corner (1 m)": 1
+        }
+    },
+    "Inverted Ramp (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inverted Ramp (2 m)": 1
+        }
+    },
+    "Inverted Up Corner (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inverted Up Corner (2 m)": 1
+        }
+    },
+    "Inverted Down Corner (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inverted Down Corner (2 m)": 1
+        }
+    },
+    "Inverted Up Corner (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inverted Up Corner (4 m)": 1
+        }
+    },
+    "Inverted Down Corner (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Inverted Down Corner (4 m)": 1
+        }
+    },
+    "Lookout Tower (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 5,
+            "Iron Rod": 5
+        },
+        "out": {
+            "Lookout Tower": 1
+        }
+    },
+    "Roll-Up Gate (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 4,
+            "Steel Beam": 4
+        },
+        "out": {
+            "Roll-Up Gate": 1
+        }
+    },
+    "Basic Wall (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Basic Wall (4 m)": 1
+        }
+    },
+    "Conveyor Wall x 3 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Conveyor Wall x 3": 1
+        }
+    },
+    "Conveyor Wall x 2 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Conveyor Wall x 2": 1
+        }
+    },
+    "Conveyor Wall x 1 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Conveyor Wall x 1": 1
+        }
+    },
+    "Center Door Wall (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Center Door Wall": 1
+        }
+    },
+    "Side Door Wall (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Side Door Wall": 1
+        }
+    },
+    "Gate Hole Wall (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Gate Hole Wall": 1
+        }
+    },
+    "Basic Wall (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Basic Wall (1 m)": 1
+        }
+    },
+    "Tilted Corner Wall (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Tilted Corner Wall (4 m)": 1
+        }
+    },
+    "Tilted Concave Wall (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Tilted Concave Wall (4 m)": 1
+        }
+    },
+    "Tilted Corner Wall (8 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Tilted Corner Wall (8 m)": 1
+        }
+    },
+    "Tilted Concave Wall (8 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Tilted Concave Wall (8 m)": 1
+        }
+    },
+    "Tilted Wall (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Tilted Wall (4 m)": 1
+        }
+    },
+    "Tilted Wall (8 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Tilted Wall (8 m)": 1
+        }
+    },
+    "Inverted Ramp Wall (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Inverted Ramp Wall (1 m)": 1
+        }
+    },
+    "Inverted Ramp Wall (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Inverted Ramp Wall (2 m)": 1
+        }
+    },
+    "Inverted Ramp Wall (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Inverted Ramp Wall (4 m)": 1
+        }
+    },
+    "Inverted Ramp Wall (8 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Inverted Ramp Wall (8 m)": 1
+        }
+    },
+    "Ramp Wall (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Ramp Wall (1 m)": 1
+        }
+    },
+    "Ramp Wall (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Ramp Wall (2 m)": 1
+        }
+    },
+    "Ramp Wall (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Ramp Wall (4 m)": 1
+        }
+    },
+    "Ramp Wall (8 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Ramp Wall (8 m)": 1
+        }
+    },
+    "Single Window (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Silica": 2
+        },
+        "out": {
+            "Single Window": 1
+        }
+    },
+    "Frame Window (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Silica": 2
+        },
+        "out": {
+            "Frame Window": 1
+        }
+    },
+    "Panel Window (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Silica": 2
+        },
+        "out": {
+            "Panel Window": 1
+        }
+    },
+    "Reinforced Window (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Silica": 2
+        },
+        "out": {
+            "Reinforced Window": 1
+        }
+    },
+    "Stinger Protein (Constructor)": {
+        "building": "Constructor",
+        "time": 3,
+        "in": {
+            "Stinger Parts": 1
+        },
+        "out": {
+            "Hog Protein": 1
+        }
+    },
+    "Hatcher Protein (Constructor)": {
+        "building": "Constructor",
+        "time": 3,
+        "in": {
+            "Hatcher Parts": 1
+        },
+        "out": {
+            "Hog Protein": 1
+        }
+    },
+    "Alien DNA Capsule (Constructor)": {
+        "building": "Constructor",
+        "time": 6,
+        "in": {
+            "Hog Protein": 1
+        },
+        "out": {
+            "Alien DNA Capsule": 1
+        }
+    },
+    "Biomass (Alien Protein) (Constructor)": {
+        "building": "Constructor",
+        "time": 4,
+        "in": {
+            "Hog Protein": 1
+        },
+        "out": {
+            "Biomass (Mycelia)": 100
+        }
+    },
+    "Protein Inhaler (Workshop)": {
+        "building": "Workshop",
+        "time": 20,
+        "in": {
+            "Hog Protein": 1,
+            "Nut": 10
+        },
+        "out": {
+            "Protein Inhaler": 1
+        }
+    },
+    "Iron Rebar (Constructor)": {
+        "building": "Constructor",
+        "time": 4,
+        "in": {
+            "Iron Rod": 1
+        },
+        "out": {
+            "Iron Rebar": 1
+        }
+    },
+    "Rebar Gun (Workshop)": {
+        "building": "Workshop",
+        "time": 60,
+        "in": {
+            "Adhered Iron Plate": 6,
+            "Iron Rod": 16,
+            "Steel Screws": 100
+        },
+        "out": {
+            "Rebar Gun": 1
+        }
+    },
+    "Alien Power Augmenter (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "WAT1": 10,
+            "SAM Fluctuator": 50,
+            "Coated Cable": 100,
+            "Encased Industrial Beam": 50,
+            "Motor": 25,
+            "Computer": 10
+        },
+        "out": {
+            "Alien Power Augmenter": 1
+        }
+    },
+    "Dimensional Depot Uploader (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "WAT2": 1,
+            "SAM Fluctuator": 10,
+            "Modular Frame": 10,
+            "Fused Wire": 100
+        },
+        "out": {
+            "Dimensional Depot Uploader": 1
+        }
+    },
+    "Alien Power Matrix (Quantum Encoder)": {
+        "building": "Quantum Encoder",
+        "time": 24,
+        "in": {
+            "SAM Fluctuator": 5,
+            "Power Shard (1)": 3,
+            "Quantum Oscillator": 3,
+            "Excited Photonic Matter": 24
+        },
+        "out": {
+            "Alien Power Fuel": 1,
+            "Dark Matter Residue": 24
+        }
+    },
+    "Geothermal Generator (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Motor": 10,
+            "Modular Frame": 25,
+            "High-Speed Connector": 25,
+            "Steamed Copper Sheet": 50,
+            "Fused Wire": 250
+        },
+        "out": {
+            "Geothermal Generator": 1
+        }
+    },
+    "Programmable Splitter (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Heavy Flexible Frame": 1,
+            "Computer": 2,
+            "AI Limiter": 5
+        },
+        "out": {
+            "Programmable Splitter": 1
+        }
+    },
+    "Homing Rifle Ammo (Assembler)": {
+        "building": "Assembler",
+        "time": 24,
+        "in": {
+            "Rifle Ammo": 20,
+            "High-Speed Connector": 1
+        },
+        "out": {
+            "Homing Rifle Ammo": 10
+        }
+    },
+    "Power Pole Mk.3 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "High-Speed Connector": 2,
+            "Steel Pipe": 2,
+            "Residual Rubber": 3
+        },
+        "out": {
+            "Power Pole Mk.3": 1
+        }
+    },
+    "Priority Power Switch (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "High-Speed Connector": 2,
+            "Steel Beam": 6,
+            "Fused Quickwire": 50
+        },
+        "out": {
+            "Priority Power Switch": 1
+        }
+    },
+    "Blade Runners (Workshop)": {
+        "building": "Workshop",
+        "time": 60,
+        "in": {
+            "Silica": 20,
+            "Modular Frame": 3,
+            "Copper Rotor": 3
+        },
+        "out": {
+            "Blade Runners": 1
+        }
+    },
+    "Power Pole Mk.2 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Fused Quickwire": 6,
+            "Iron Rod": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Power Pole Mk.2": 1
+        }
+    },
+    "Power Switch (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Fused Quickwire": 20,
+            "Steel Beam": 4,
+            "AI Limiter": 1
+        },
+        "out": {
+            "Power Switch": 1
+        }
+    },
+    "Smart Splitter (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 2,
+            "Copper Rotor": 2,
+            "AI Limiter": 1
+        },
+        "out": {
+            "Smart Splitter": 1
+        }
+    },
+    "Stun Rebar (Assembler)": {
+        "building": "Assembler",
+        "time": 6,
+        "in": {
+            "Iron Rebar": 1,
+            "Fused Quickwire": 5
+        },
+        "out": {
+            "Stun Rebar": 1
+        }
+    },
+    "Zipline (Workshop)": {
+        "building": "Workshop",
+        "time": 40,
+        "in": {
+            "Xeno-Zapper": 1,
+            "Fused Quickwire": 30,
+            "Iron Rod": 3,
+            "Coated Cable": 10
+        },
+        "out": {
+            "Zipline": 1
+        }
+    },
+    "Gas Filter (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 8,
+        "in": {
+            "Polyester Fabric": 2,
+            "Coal (Iron)": 4,
+            "Iron Plate": 2
+        },
+        "out": {
+            "Gas Filter": 1
+        }
+    },
+    "Gas Mask (Workshop)": {
+        "building": "Workshop",
+        "time": 60,
+        "in": {
+            "Polyester Fabric": 50,
+            "Steamed Copper Sheet": 10,
+            "Steel Pipe": 10
+        },
+        "out": {
+            "Gas Mask": 1
+        }
+    },
+    "Gas Nobelisk (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Nobelisk": 1,
+            "Biomass (Mycelia)": 10
+        },
+        "out": {
+            "Gas Nobelisk": 1
+        }
+    },
+    "Therapeutic Inhaler (Workshop)": {
+        "building": "Workshop",
+        "time": 20,
+        "in": {
+            "Mycelia": 15,
+            "Hog Protein": 1,
+            "Shroom": 1
+        },
+        "out": {
+            "Protein Inhaler": 1
+        }
+    },
+    "Vitamin Inhaler (Workshop)": {
+        "building": "Workshop",
+        "time": 20,
+        "in": {
+            "Mycelia": 10,
+            "Berry": 5
+        },
+        "out": {
+            "Protein Inhaler": 1
+        }
+    },
+    "Parachute (Workshop)": {
+        "building": "Workshop",
+        "time": 40,
+        "in": {
+            "Polyester Fabric": 20,
+            "Coated Cable": 10
+        },
+        "out": {
+            "Parachute": 1
+        }
+    },
+    "Polyester Fabric (Refinery)": {
+        "building": "Refinery",
+        "time": 2,
+        "in": {
+            "Polymer Resin": 1,
+            "Water": 1
+        },
+        "out": {
+            "Polyester Fabric": 1
+        }
+    },
+    "Fabric (Assembler)": {
+        "building": "Assembler",
+        "time": 4,
+        "in": {
+            "Mycelia": 1,
+            "Biomass (Mycelia)": 5
+        },
+        "out": {
+            "Polyester Fabric": 1
+        }
+    },
+    "Nutritional Inhaler (Workshop)": {
+        "building": "Workshop",
+        "time": 20,
+        "in": {
+            "Shroom": 1,
+            "Berry": 2,
+            "Nut": 5
+        },
+        "out": {
+            "Protein Inhaler": 1
+        }
+    },
+    "Synthetic Power Shard (Quantum Encoder)": {
+        "building": "Quantum Encoder",
+        "time": 12,
+        "in": {
+            "Time Crystal": 2,
+            "Dark Matter Crystal": 2,
+            "Pure Quartz Crystal": 12,
+            "Excited Photonic Matter": 12
+        },
+        "out": {
+            "Power Shard (1)": 1,
+            "Dark Matter Residue": 12
+        }
+    },
+    "Power Shard (5) (Constructor)": {
+        "building": "Constructor",
+        "time": 24,
+        "in": {
+            "Crystal mk3": 1
+        },
+        "out": {
+            "Power Shard (1)": 5
+        }
+    },
+    "Power Shard (2) (Constructor)": {
+        "building": "Constructor",
+        "time": 12,
+        "in": {
+            "Crystal mk2": 1
+        },
+        "out": {
+            "Power Shard (1)": 2
+        }
+    },
+    "Priority Merger (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 2,
+            "Modular Frame": 1,
+            "Crystal Oscillator": 1
+        },
+        "out": {
+            "Priority Merger": 1
+        }
+    },
+    "Radar Tower (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Computer": 10,
+            "Heavy Flexible Frame": 20,
+            "Crystal Oscillator": 25,
+            "Coated Cable": 100
+        },
+        "out": {
+            "Radar Tower": 1
+        }
+    },
+    "Pulse Nobelisk (Assembler)": {
+        "building": "Assembler",
+        "time": 60,
+        "in": {
+            "Nobelisk": 5,
+            "Crystal Oscillator": 1
+        },
+        "out": {
+            "Pulse Nobelisk": 5
+        }
+    },
+    "Explorer (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Crystal Oscillator": 5,
+            "Motor": 5,
+            "Modular Frame": 10,
+            "Steel Pipe": 15
+        },
+        "out": {
+            "Explorer": 1
+        }
+    },
+    "Shatter Rebar (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Iron Rebar": 2,
+            "Pure Quartz Crystal": 3
+        },
+        "out": {
+            "Shatter Rebar": 1
+        }
+    },
+    "Turbo Rifle Ammo (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 12,
+        "in": {
+            "Rifle Ammo": 25,
+            "Aluminum Casing": 3,
+            "Packaged Turbofuel": 3
+        },
+        "out": {
+            "Turbo Rifle Ammo": 50
+        }
+    },
+    "Turbo Rifle Ammo (Blender)": {
+        "building": "Blender",
+        "time": 12,
+        "in": {
+            "Rifle Ammo": 25,
+            "Aluminum Casing": 3,
+            "Turbofuel": 3
+        },
+        "out": {
+            "Turbo Rifle Ammo": 50
+        }
+    },
+    "Nuke Nobelisk (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 120,
+        "in": {
+            "Nobelisk": 5,
+            "Infused Uranium Cell": 20,
+            "Smokeless Powder": 10,
+            "AI Limiter": 6
+        },
+        "out": {
+            "Nuke Nobelisk": 1
+        }
+    },
+    "Rifle Ammo (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Steamed Copper Sheet": 3,
+            "Smokeless Powder": 2
+        },
+        "out": {
+            "Rifle Ammo": 15
+        }
+    },
+    "Explosive Rebar (Manufacturer)": {
+        "building": "Manufacturer",
+        "time": 12,
+        "in": {
+            "Iron Rebar": 2,
+            "Smokeless Powder": 2,
+            "Steel Pipe": 2
+        },
+        "out": {
+            "Explosive Rebar": 1
+        }
+    },
+    "Rifle (Workshop)": {
+        "building": "Workshop",
+        "time": 120,
+        "in": {
+            "Motor": 2,
+            "Residual Rubber": 10,
+            "Steel Pipe": 25,
+            "Steel Screws": 250
+        },
+        "out": {
+            "Rifle": 1
+        }
+    },
+    "Cluster Nobelisk (Assembler)": {
+        "building": "Assembler",
+        "time": 24,
+        "in": {
+            "Nobelisk": 3,
+            "Smokeless Powder": 4
+        },
+        "out": {
+            "Cluster Nobelisk": 1
+        }
+    },
+    "Nobelisk (Assembler)": {
+        "building": "Assembler",
+        "time": 6,
+        "in": {
+            "Fine Black Powder": 2,
+            "Steel Pipe": 2
+        },
+        "out": {
+            "Nobelisk": 1
+        }
+    },
+    "Nobelisk Detonator (Workshop)": {
+        "building": "Workshop",
+        "time": 80,
+        "in": {
+            "Object Scanner": 1,
+            "Steel Beam": 10,
+            "Coated Cable": 50
+        },
+        "out": {
+            "Nobelisk Detonator": 1
+        }
+    },
+    "Smokeless Powder (Refinery)": {
+        "building": "Refinery",
+        "time": 6,
+        "in": {
+            "Fine Black Powder": 2,
+            "Heavy Oil Residue": 1
+        },
+        "out": {
+            "Smokeless Powder": 2
+        }
+    },
+    "FICSMAS Wreath (Assembler)": {
+        "building": "Assembler",
+        "time": 60,
+        "in": {
+            "FICSMAS Tree Branch": 15,
+            "FICSMAS Ornament Bundle": 6
+        },
+        "out": {
+            "FICSMAS Wreath": 2
+        }
+    },
+    "Snowball (Constructor)": {
+        "building": "Constructor",
+        "time": 12,
+        "in": {
+            "FICSMAS Actual Snow": 3
+        },
+        "out": {
+            "Snowball": 1
+        }
+    },
+    "FICSMAS Decoration (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "FICSMAS Wreath": 1,
+            "FICSMAS Bow": 1
+        },
+        "out": {
+            "FICSMAS Decoration": 1
+        }
+    },
+    "FICSMAS Wonder Star (Assembler)": {
+        "building": "Assembler",
+        "time": 60,
+        "in": {
+            "FICSMAS Wreath": 5,
+            "Candy Cane": 20
+        },
+        "out": {
+            "FICSMAS Wonder Star": 1
+        }
+    },
+    "Copper FICSMAS Ornament (Foundry)": {
+        "building": "Foundry",
+        "time": 12,
+        "in": {
+            "Red FICSMAS Ornament": 2,
+            "Pure Copper Ingot": 2
+        },
+        "out": {
+            "Copper FICSMAS Ornament": 1
+        }
+    },
+    "Iron FICSMAS Ornament (Foundry)": {
+        "building": "Foundry",
+        "time": 12,
+        "in": {
+            "Blue FICSMAS Ornament": 3,
+            "Iron Ingot": 3
+        },
+        "out": {
+            "Iron FICSMAS Ornament": 1
+        }
+    },
+    "FICSMAS Snow Cannon (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "FICSMAS Bow": 10,
+            "FICSMAS Actual Snow": 100,
+            "Copper FICSMAS Ornament": 20
+        },
+        "out": {
+            "FICSMAS Snow Cannon": 1
+        }
+    },
+    "FICSMAS Snow Dispenser (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Candy Cane": 10,
+            "FICSMAS Actual Snow": 100,
+            "Iron FICSMAS Ornament": 20
+        },
+        "out": {
+            "FICSMAS Snow Dispenser": 1
+        }
+    },
+    "FICSMAS Power Light (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Coated Cable": 1,
+            "FICSMAS Ornament Bundle": 1
+        },
+        "out": {
+            "FICSMAS Power Light": 1
+        }
+    },
+    "FICSMAS Ornament Bundle (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Copper FICSMAS Ornament": 1,
+            "Iron FICSMAS Ornament": 1
+        },
+        "out": {
+            "FICSMAS Ornament Bundle": 1
+        }
+    },
+    "Red FICSMAS Ornament (Smelter)": {
+        "building": "Smelter",
+        "time": 12,
+        "in": {
+            "Gift": 1
+        },
+        "out": {
+            "Red FICSMAS Ornament": 1
+        }
+    },
+    "Blue FICSMAS Ornament (Smelter)": {
+        "building": "Smelter",
+        "time": 12,
+        "in": {
+            "Gift": 1
+        },
+        "out": {
+            "Blue FICSMAS Ornament": 2
+        }
+    },
+    "FICSMAS Gift Tree (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Gift": 50,
+            "FICSMAS Tree Branch": 100,
+            "Red FICSMAS Ornament": 30,
+            "Blue FICSMAS Ornament": 30
+        },
+        "out": {
+            "FICSMAS Gift Tree": 1
+        }
+    },
+    "FICSMAS Snowman (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "FICSMAS Actual Snow": 50,
+            "Candy Cane": 3,
+            "FICSMAS Bow": 1,
+            "Red FICSMAS Ornament": 3,
+            "Blue FICSMAS Ornament": 2
+        },
+        "out": {
+            "FICSMAS Snowman": 1
+        }
+    },
+    "FICSMAS Actual Snow (Constructor)": {
+        "building": "Constructor",
+        "time": 12,
+        "in": {
+            "Gift": 5
+        },
+        "out": {
+            "FICSMAS Actual Snow": 2
+        }
+    },
+    "Giant FICSMAS Tree (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "FICSMAS Tree Branch": 100,
+            "Adhered Iron Plate": 50,
+            "Wet Concrete": 500
+        },
+        "out": {
+            "Giant FICSMAS Tree": 1
+        }
+    },
+    "FICSMAS Tree Branch (Constructor)": {
+        "building": "Constructor",
+        "time": 6,
+        "in": {
+            "Gift": 1
+        },
+        "out": {
+            "FICSMAS Tree Branch": 1
+        }
+    },
+    "FICSMAS Candy Cane (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Candy Cane": 10,
+            "FICSMAS Bow": 1
+        },
+        "out": {
+            "FICSMAS Candy Cane": 1
+        }
+    },
+    "FICSMAS Bow (Constructor)": {
+        "building": "Constructor",
+        "time": 12,
+        "in": {
+            "Gift": 2
+        },
+        "out": {
+            "FICSMAS Bow": 1
+        }
+    },
+    "Candy Cane (Constructor)": {
+        "building": "Constructor",
+        "time": 12,
+        "in": {
+            "Gift": 3
+        },
+        "out": {
+            "Candy Cane": 1
+        }
+    },
+    "Candy Cane Basher (Workshop)": {
+        "building": "Workshop",
+        "time": 80,
+        "in": {
+            "Xeno-Zapper": 2,
+            "Candy Cane": 25,
+            "Gift": 15
+        },
+        "out": {
+            "Candy Cane Basher": 1
+        }
+    },
+    "Frame Floor (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 2
+        },
+        "out": {
+            "Frame Floor": 1
+        }
+    },
+    "Frame Foundation (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 5
+        },
+        "out": {
+            "Frame Foundation": 1
+        }
+    },
+    "Glass Frame Foundation (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 2,
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Glass Frame Foundation": 1
+        }
+    },
+    "Frame Ramp (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 5
+        },
+        "out": {
+            "Frame Ramp": 1
+        }
+    },
+    "Inverted Frame Ramp (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 5
+        },
+        "out": {
+            "Inverted Frame Ramp": 1
+        }
+    },
+    "Frame Wall (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 2
+        },
+        "out": {
+            "Frame Wall": 1
+        }
+    },
+    "Modern Railing (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2
+        },
+        "out": {
+            "Modern Railing": 1
+        }
+    },
+    "Small Metal Pillar (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 1,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Small Metal Pillar": 1
+        }
+    },
+    "Small Pillar Support (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Small Pillar Support": 1
+        }
+    },
+    "Big Pillar Support (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Big Pillar Support": 1
+        }
+    },
+    "Big Metal Pillar (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 2,
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Big Metal Pillar": 1
+        }
+    },
+    "Ladder (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2
+        },
+        "out": {
+            "Ladder": 1
+        }
+    },
+    "Factory Cart™ (Workshop)": {
+        "building": "Workshop",
+        "time": 20,
+        "in": {
+            "Adhered Iron Plate": 4,
+            "Iron Rod": 4,
+            "Copper Rotor": 2
+        },
+        "out": {
+            "Factory Cart™": 1
+        }
+    },
+    "Cyber Wagon (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 10
+        },
+        "out": {
+            "Cyber Wagon": 1
+        }
+    },
+    "Automated Gate (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 6
+        },
+        "out": {
+            "Automated Gate": 1
+        }
+    },
+    "Hypertube Wall Hole (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Hypertube Wall Hole": 1
+        }
+    },
+    "Pipeline Wall Hole (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 1,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Pipeline Wall Hole": 1
+        }
+    },
+    "Pipeline Floor Hole (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Pipeline Floor Hole": 1
+        }
+    },
+    "Double Wall Outlet Mk.1 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Fused Wire": 8,
+            "Iron Rod": 2
+        },
+        "out": {
+            "Double Wall Outlet Mk.1": 1
+        }
+    },
+    "Double Wall Outlet Mk.2 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Fused Quickwire": 16,
+            "Iron Rod": 4
+        },
+        "out": {
+            "Double Wall Outlet Mk.2": 1
+        }
+    },
+    "Wall Outlet Mk.2 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Fused Quickwire": 8,
+            "Iron Rod": 2
+        },
+        "out": {
+            "Wall Outlet Mk.2": 1
+        }
+    },
+    "Double Wall Outlet Mk.3 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "High-Speed Connector": 6,
+            "Steel Pipe": 6
+        },
+        "out": {
+            "Double Wall Outlet Mk.3": 1
+        }
+    },
+    "Wall Outlet Mk.3 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "High-Speed Connector": 3,
+            "Steel Pipe": 3
+        },
+        "out": {
+            "Wall Outlet Mk.3": 1
+        }
+    },
+    "Large Fan (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 1,
+            "Steamed Copper Sheet": 1
+        },
+        "out": {
+            "Large Fan": 1
+        }
+    },
+    "Large Vent (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 1,
+            "Steamed Copper Sheet": 1
+        },
+        "out": {
+            "Large Vent": 1
+        }
+    },
+    "Street Light (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Fused Quickwire": 10,
+            "Fused Wire": 4,
+            "Iron Rod": 4
+        },
+        "out": {
+            "Street Light": 1
+        }
+    },
+    "Ceiling Light (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Fused Quickwire": 50,
+            "Fused Wire": 16,
+            "Steel Beam": 6
+        },
+        "out": {
+            "Ceiling Light": 1
+        }
+    },
+    "Flood Light Tower (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Fused Quickwire": 25,
+            "Steamed Copper Sheet": 4,
+            "Encased Industrial Beam": 8
+        },
+        "out": {
+            "Flood Light Tower": 1
+        }
+    },
+    "Wall-Mounted Flood Light (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Fused Quickwire": 25,
+            "Steamed Copper Sheet": 4,
+            "Encased Industrial Beam": 2
+        },
+        "out": {
+            "Wall-Mounted Flood Light": 1
+        }
+    },
+    "Basic Shelf Unit (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 1,
+            "Iron Rod": 1
+        },
+        "out": {
+            "Basic Shelf Unit": 1
+        }
+    },
+    "Flat Roof (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Flat Roof": 1
+        }
+    },
+    "Roof (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Roof (1 m)": 1
+        }
+    },
+    "Roof (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Roof (2 m)": 1
+        }
+    },
+    "Roof (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Roof (4 m)": 1
+        }
+    },
+    "Inner Corner Roof (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Inner Corner Roof (1 m)": 1
+        }
+    },
+    "Inner Corner Roof (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Inner Corner Roof (2 m)": 1
+        }
+    },
+    "Inner Corner Roof (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Inner Corner Roof (4 m)": 1
+        }
+    },
+    "Outer Corner Roof (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Outer Corner Roof (1 m)": 1
+        }
+    },
+    "Outer Corner Roof (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Outer Corner Roof (2 m)": 1
+        }
+    },
+    "Outer Corner Roof (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Outer Corner Roof (4 m)": 1
+        }
+    },
+    "Elevator Floor Stop (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Modular Frame": 2,
+            "Motor": 1,
+            "Steel Beam": 5
+        },
+        "out": {
+            "Elevator Floor Stop": 1
+        }
+    },
+    "Personnel Elevator (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 1,
+            "Silica": 1
+        },
+        "out": {
+            "Personnel Elevator": 1
+        }
+    },
+    "Clean Pipeline Mk.2 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steamed Copper Sheet": 2,
+            "Residual Plastic": 1
+        },
+        "out": {
+            "Clean Pipeline Mk.2": 1
+        }
+    },
+    "Clean Pipeline Mk.1 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steamed Copper Sheet": 1
+        },
+        "out": {
+            "Clean Pipeline Mk.1": 1
+        }
+    },
+    "Medical Storage Box (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 6,
+            "Iron Rod": 6
+        },
+        "out": {
+            "Medical Storage Box": 1
+        }
+    },
+    "Light Control Panel (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Coated Cable": 10,
+            "Adhered Iron Plate": 5,
+            "AI Limiter": 3
+        },
+        "out": {
+            "Light Control Panel": 1
+        }
+    },
+    "Label Sign (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 2,
+            "Pure Quartz Crystal": 2
+        },
+        "out": {
+            "Label Sign (2 m)": 1
+        }
+    },
+    "Label Sign (4 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 4,
+            "Pure Quartz Crystal": 4
+        },
+        "out": {
+            "Label Sign (4 m)": 1
+        }
+    },
+    "Label Sign (3 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 3,
+            "Pure Quartz Crystal": 3
+        },
+        "out": {
+            "Label Sign (3 m)": 1
+        }
+    },
+    "Square Sign (0.5 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 1,
+            "Pure Quartz Crystal": 1
+        },
+        "out": {
+            "Square Sign (0.5 m)": 1
+        }
+    },
+    "Hypertube Floor Hole (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Hypertube Floor Hole": 1
+        }
+    },
+    "Hazard Storage Box (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 6,
+            "Iron Rod": 6
+        },
+        "out": {
+            "Hazard Storage Box": 1
+        }
+    },
+    "Golden Factory Cart™ (Workshop)": {
+        "building": "Workshop",
+        "time": 20,
+        "in": {
+            "Pure Caterium Ingot": 15,
+            "Iron Rod": 4,
+            "Copper Rotor": 2
+        },
+        "out": {
+            "Golden Factory Cart™": 1
+        }
+    },
+    "Angled Frame Window (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Silica": 2,
+            "Steel Beam": 2
+        },
+        "out": {
+            "Angled Frame Window": 1
+        }
+    },
+    "Honeycomb Frame Window (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Silica": 2,
+            "Steel Beam": 2
+        },
+        "out": {
+            "Honeycomb Frame Window": 1
+        }
+    },
+    "Triple Frame Window (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Silica": 2,
+            "Steel Beam": 2
+        },
+        "out": {
+            "Triple Frame Window": 1
+        }
+    },
+    "Full Frame Window (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Silica": 2,
+            "Steel Beam": 2
+        },
+        "out": {
+            "Full Frame Window": 1
+        }
+    },
+    "Hex Frame Window (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Silica": 2,
+            "Steel Beam": 2
+        },
+        "out": {
+            "Hex Frame Window": 1
+        }
+    },
+    "Small Frame Pillar (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 3
+        },
+        "out": {
+            "Small Frame Pillar": 1
+        }
+    },
+    "Big Frame Pillar (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 5
+        },
+        "out": {
+            "Big Frame Pillar": 1
+        }
+    },
+    "Construction Fence (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2
+        },
+        "out": {
+            "Construction Fence": 1
+        }
+    },
+    "Tarp Construction Fence (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2
+        },
+        "out": {
+            "Tarp Construction Fence": 1
+        }
+    },
+    "Low Barrier (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 1,
+            "Iron Plate": 1
+        },
+        "out": {
+            "Low Barrier": 1
+        }
+    },
+    "High Barrier (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 1,
+            "Iron Plate": 1
+        },
+        "out": {
+            "High Barrier": 1
+        }
+    },
+    "Corner Road Barrier (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 1
+        },
+        "out": {
+            "Corner Road Barrier": 1
+        }
+    },
+    "Road Barrier (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Road Barrier": 1
+        }
+    },
+    "Display Sign (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 2,
+            "Pure Quartz Crystal": 5
+        },
+        "out": {
+            "Display Sign": 1
+        }
+    },
+    "Portrait Sign (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 4,
+            "Pure Quartz Crystal": 10
+        },
+        "out": {
+            "Portrait Sign": 1
+        }
+    },
+    "Square Sign (2 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 3,
+            "Pure Quartz Crystal": 10
+        },
+        "out": {
+            "Square Sign (2 m)": 1
+        }
+    },
+    "Square Sign (1 m) (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 1,
+            "Pure Quartz Crystal": 5
+        },
+        "out": {
+            "Square Sign (1 m)": 1
+        }
+    },
+    "Conveyor Wall Hole (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Conveyor Wall Hole": 1
+        }
+    },
+    "Conveyor Throughput Monitor (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 4,
+            "Pure Quartz Crystal": 10,
+            "Crystal Oscillator": 1
+        },
+        "out": {
+            "Conveyor Throughput Monitor": 1
+        }
+    },
+    "Conveyor Lift Floor Hole (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 2,
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Conveyor Lift Floor Hole": 1
+        }
+    },
+    "Small Concrete Pillar (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 3
+        },
+        "out": {
+            "Small Concrete Pillar": 1
+        }
+    },
+    "Big Concrete Pillar (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 5
+        },
+        "out": {
+            "Big Concrete Pillar": 1
+        }
+    },
+    "Catwalk Intersection (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 1
+        },
+        "out": {
+            "Catwalk Intersection": 1
+        }
+    },
+    "Catwalk Ramp (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 1
+        },
+        "out": {
+            "Catwalk Ramp": 1
+        }
+    },
+    "Catwalk Stairs (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 1
+        },
+        "out": {
+            "Catwalk Stairs": 1
+        }
+    },
+    "Straight Catwalk (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 1
+        },
+        "out": {
+            "Straight Catwalk": 1
+        }
+    },
+    "Catwalk T-Junction (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 1
+        },
+        "out": {
+            "Catwalk T-Junction": 1
+        }
+    },
+    "Catwalk Corner (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 2,
+            "Iron Plate": 1
+        },
+        "out": {
+            "Catwalk Corner": 1
+        }
+    },
+    "Large Billboard (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Encased Industrial Beam": 12,
+            "Steamed Copper Sheet": 20,
+            "Crystal Oscillator": 5
+        },
+        "out": {
+            "Large Billboard": 1
+        }
+    },
+    "Small Billboard (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Encased Industrial Beam": 3,
+            "Steamed Copper Sheet": 4,
+            "Crystal Oscillator": 1
+        },
+        "out": {
+            "Small Billboard": 1
+        }
+    },
+    "Braided Cable (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 1
+        },
+        "out": {
+            "Braided Cable": 1
+        }
+    },
+    "Braided Cable Cluster (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 1
+        },
+        "out": {
+            "Braided Cable Cluster": 1
+        }
+    },
+    "Beam Connector (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Beam Connector": 1
+        }
+    },
+    "Double Beam Connector (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Double Beam Connector": 1
+        }
+    },
+    "Beam Support (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 2
+        },
+        "out": {
+            "Beam Support": 1
+        }
+    },
+    "Round Concrete Beam (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 1
+        },
+        "out": {
+            "Round Concrete Beam": 1
+        }
+    },
+    "H-Beam (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 1
+        },
+        "out": {
+            "H-Beam": 1
+        }
+    },
+    "Shelf Beam (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 1
+        },
+        "out": {
+            "Shelf Beam": 1
+        }
+    },
+    "Metal Beam (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 1
+        },
+        "out": {
+            "Metal Beam": 1
+        }
+    },
+    "Painted Beam (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Steel Beam": 1
+        },
+        "out": {
+            "Painted Beam": 1
+        }
+    },
+    "Biomass Burner (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 15,
+            "Iron Rod": 15,
+            "Fused Wire": 25
+        },
+        "out": {
+            "Biomass Burner": 1
+        }
+    },
+    "Space Elevator (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Wet Concrete": 500,
+            "Iron Plate": 250,
+            "Iron Rod": 400,
+            "Fused Wire": 1500
+        },
+        "out": {
+            "Space Elevator": 1
+        }
+    },
+    "Biomass (Leaves) (Constructor)": {
+        "building": "Constructor",
+        "time": 5,
+        "in": {
+            "Leaves": 10
+        },
+        "out": {
+            "Biomass (Mycelia)": 5
+        }
+    },
+    "Biomass (Wood) (Constructor)": {
+        "building": "Constructor",
+        "time": 4,
+        "in": {
+            "Wood": 4
+        },
+        "out": {
+            "Biomass (Mycelia)": 20
+        }
+    },
+    "Miner Mk.1 (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Automated Miner": 1,
+            "Iron Plate": 10,
+            "Wet Concrete": 10
+        },
+        "out": {
+            "Miner Mk.1": 1
+        }
+    },
+    "Storage Container (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 10,
+            "Iron Rod": 10
+        },
+        "out": {
+            "Storage Container": 1
+        }
+    },
+    "Reinforced Iron Plate (Assembler)": {
+        "building": "Assembler",
+        "time": 12,
+        "in": {
+            "Iron Plate": 6,
+            "Steel Screws": 12
+        },
+        "out": {
+            "Adhered Iron Plate": 1
+        }
+    },
+    "Constructor (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Adhered Iron Plate": 2,
+            "Coated Cable": 8
+        },
+        "out": {
+            "Constructor": 1
+        }
+    },
+    "Concrete (Constructor)": {
+        "building": "Constructor",
+        "time": 4,
+        "in": {
+            "Limestone (Sulfur)": 3
+        },
+        "out": {
+            "Wet Concrete": 1
+        }
+    },
+    "Screws (Constructor)": {
+        "building": "Constructor",
+        "time": 6,
+        "in": {
+            "Iron Rod": 1
+        },
+        "out": {
+            "Steel Screws": 4
+        }
+    },
+    "Smelter (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Rod": 5,
+            "Fused Wire": 8
+        },
+        "out": {
+            "Smelter": 1
+        }
+    },
+    "Cable (Constructor)": {
+        "building": "Constructor",
+        "time": 2,
+        "in": {
+            "Fused Wire": 2
+        },
+        "out": {
+            "Coated Cable": 1
+        }
+    },
+    "Wire (Constructor)": {
+        "building": "Constructor",
+        "time": 4,
+        "in": {
+            "Pure Copper Ingot": 1
+        },
+        "out": {
+            "Fused Wire": 2
+        }
+    },
+    "Copper Ingot (Smelter)": {
+        "building": "Smelter",
+        "time": 2,
+        "in": {
+            "Copper Ore (Quartz)": 1
+        },
+        "out": {
+            "Pure Copper Ingot": 1
+        }
+    },
+    "Equipment Workshop (Build Gun)": {
+        "building": "Build Gun",
+        "time": 1,
+        "in": {
+            "Iron Plate": 6,
+            "Iron Rod": 4
+        },
+        "out": {
+            "Equipment Workshop": 1
+        }
+    },
+    "Portable Miner (Workshop)": {
+        "building": "Workshop",
+        "time": 40,
+        "in": {
+            "Iron Plate": 2,
+            "Iron Rod": 4
+        },
+        "out": {
+            "Automated Miner": 1
+        }
+    },
+    "Sweet Fireworks (Assembler)": {
+        "building": "Assembler",
+        "time": 24,
+        "in": {
+            "FICSMAS Tree Branch": 6,
+            "Candy Cane": 3
+        },
+        "out": {
+            "Sweet Fireworks": 1
+        }
+    },
+    "Fancy Fireworks (Assembler)": {
+        "building": "Assembler",
+        "time": 24,
+        "in": {
+            "FICSMAS Tree Branch": 4,
+            "FICSMAS Bow": 3
+        },
+        "out": {
+            "Fancy Fireworks": 1
+        }
+    },
+    "Sparkly Fireworks (Assembler)": {
+        "building": "Assembler",
+        "time": 24,
+        "in": {
+            "FICSMAS Tree Branch": 3,
+            "FICSMAS Actual Snow": 2
+        },
+        "out": {
+            "Sparkly Fireworks": 1
+        }
+    },
+    "N/A (Customizer)": {
+        "building": "Customizer",
+        "time": 0,
+        "in": {
+            "Gift": 1
+        },
+        "out": {}
+    }
+}
